@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .test {
+            box-sizing: border-box;
+            border: 5px solid #00ff00;
+            top: 0%;
+            left: 5%;
+            padding: 5px;
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            /*
+                简写的姿势排序
+                @keyframes name : 动画名
+                duration 持续时间
+                timing-function 动画频率
+                delay 延迟多久开始
+                iteration-count 循环次数
+                direction 动画方式,往返还是正向
+                fill-mode  一般用来处理停留在某一帧
+                play-state running 开始,paused 暂停 ....
+
+            */
+            animation: moveChangeColor ease-in 2.5s 1 forwards normal;
+        }
+
+        /*@keyframes moveChangeColor {*/
+        /*from {*/
+        /*top: 0%;*/
+        /*left: 0%;*/
+        /*background-color: #f00*/
+        /*}*/
+        /*to {*/
+        /*top: 0%;*/
+        /*left: 50%;*/
+        /*background-color: #ced;*/
+        /*}*/
+        /*}*/
+
+        .button {
+            display: block;
+            padding: auto 150px;
+            margin: 150px auto;
+            background: purple;
+            width: 50px;
+            height: 20px;
+        }
+    </style>
+    <script>
+      function clickAction() {
+        alert('sjdfjsoji')
+        document.getElementsByName('div').style.top = '50%'
+      }
+    </script>
+</head>
+<body>
+
+<div class="test"></div>
+<button class="button" onclick="clickAction()"></button>
+
+</body>
+</html>
