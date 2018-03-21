@@ -25,3 +25,28 @@ ReactDOM.render(<Table columns={columns} dataSource={data} scroll={{ x }}
 > >`y`是设置纵向滚动的
 > 
 > 2、`colums`中至少要有一列不要指定宽度，否则表格太宽的话固定的列会展示出两列
+
+###2、每一列的高度`rowClassName`
+> 1、每一行的高度通过设置`padding-top` `padding-bottom`控制
+>
+```less
+.row-wrapper {
+  > tr {
+    border: none;
+  }
+  > td {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border: none;
+  }
+  color: @gray-9;
+}
+```
+> 2、表头的高度
+>
+ ```
+ .ant-table-thead > tr > th {
+  padding-top: 11px;
+  padding-bottom: 11px;
+}
+ ```
