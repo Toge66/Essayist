@@ -1,0 +1,3 @@
+[submodule "test-webpack"]
+	path = test-webpack
+	url = git@github.com:Toge66/test-webpack.git
