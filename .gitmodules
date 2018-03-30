@@ -10,6 +10,3 @@
 [submodule "test-antd"]
 	path = test-antd
 	url = git@github.com:Toge66/test-antd.git
-[submodule "test-webpack"]
-	path = test-webpack
-	url = git@github.com:Toge66/test-webpack.git
