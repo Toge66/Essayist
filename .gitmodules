@@ -16,3 +16,6 @@
 [submodule "test-ts"]
 	path = test-ts
 	url = git@github.com:Toge66/test-ts.git
+[submodule "test-react"]
+	path = test-react
+	url = git@github.com:Toge66/test-react.git
