@@ -1,4 +1,4 @@
-# IE兼容：
+# IE兼容小结
 ## SSE问题
 安装中间件[`event-source-polyfill`](https://github.com/Yaffle/EventSource)
 在`webpack.config.js & webpack.build.js`添加
