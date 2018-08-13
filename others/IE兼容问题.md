@@ -29,7 +29,7 @@ const files = {
 	        XDomainRequest : 
 	        XMLHttpRequest)
 
-> 在IE10中`XDomainRequest`不是`undefined`但是是一个空对象，目前解决方案如下：
+> 在IE10中`XDomainRequest`不是`undefined`但是是一个空对象(`XDomainRequest`是在IE8、9中有的，IE10及以上用的是`XMLHttpRequest`，此处在IE10`XDomainRequest`为什么不是`undefined`呢？)，目前解决方案如下：
 > 
 > 在项目中的`polyfill`文件中(在`window.onload`前执行)添加
 
