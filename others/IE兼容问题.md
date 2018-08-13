@@ -13,14 +13,36 @@ const files = {
 
 ```
 <script>
-  window.onload = function () { //修正ie10中 SSE XDomainRequest有值的情况
-      var ee2 = document.createElement('script')
-      ee2.src = 'eventsource.min.js'
-      document.head.appendChild(ee2)
-  }
-
+  var ee2 = document.createElement('script')
+  ee2.src = 'eventsource.min.js'
+  document.head.appendChild(ee2)
 </script>
 ```
+
+> 在IE10中还是会报类型不支持的错误(EventSource's response has a Content-Type specifying an unsupported type)
+> 
+> 调试后发现在`event-source-polyfill`的源码中有这样一段代码
+	 
+	 var CurrentTransport = options != undefined && options.Transport != undefined ? 
+	      options.Transport : 
+	      (XDomainRequest != undefined ? 
+	        XDomainRequest : 
+	        XMLHttpRequest)
+
+> 在IE10中`XDomainRequest`不是`undefined`但是是一个空对象，目前解决方案如下：
+> 
+> 在项目中的`polyfill`文件中(在`window.onload`前执行)添加
+
+	window.XDomainRequest = undefined //修正ie10中 SSE XDomainRequest有值的情况
+
+> 把模版文件`index.hbs`中将加载`eventsource.min.js`的逻辑放到`window.onload`后执行
+
+	window.onload = function () { //修正ie10中 SSE XDomainRequest有值的情况
+	  var ee2 = document.createElement('script')
+	  ee2.src = 'eventsource.min.js'
+	  document.head.appendChild(ee2)
+	}
+
 ## [IE跨域访问问题：](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/console/error-and-status-codes)    SEC7121
 
 	response中的Access-Control-Allow-Origin的值要和请求头中origin的值要匹配
