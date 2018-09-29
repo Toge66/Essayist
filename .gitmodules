@@ -19,3 +19,6 @@
 [submodule "test-react"]
 	path = test-react
 	url = git@github.com:Toge66/test-react.git
+[submodule "react-router"]
+	path = react-router
+	url = git@github.com:Toge66/react-router.git
