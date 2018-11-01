@@ -33,29 +33,29 @@
 
 * api使用：[api文档]()
 
-	```
-	例：获取U-key中证书主题操作员号
-		try {
-			/*
-			 infotypeId:
-			 "SubjectDN"           //证书主题 DN
-			 "SubjectCN"           //证书主题 CN
-			 "IssuerDN"            //颁发者 DN
-			 "SerialNumber"        //证书序列号
-			 "CSPName"             //证书对应的 CSP 名称
-			 "CertType"            //证书类型;SM2 或 RSA
-			 * */
-		    const infoContent = CryptoAgent.GetSignCertInfo("SubjectCN");
-		    if (!InfoContent) {
-		        var errorDesc = CryptoAgent.GetLastErrorDesc();
-		        alert(errorDesc);
-		        return;
-		    }
-		    return infoContent
-		} catch (e) {
-		    var errorDesc = CryptoAgent.GetLastErrorDesc();
-		    alert(errorDesc);
-		}
+```
+例：获取U-key中证书主题操作员号
+	try {
+		/*
+		 infotypeId:
+		 "SubjectDN"           //证书主题 DN
+		 "SubjectCN"           //证书主题 CN
+		 "IssuerDN"            //颁发者 DN
+		 "SerialNumber"        //证书序列号
+		 "CSPName"             //证书对应的 CSP 名称
+		 "CertType"            //证书类型;SM2 或 RSA
+		 * */
+	    const infoContent = CryptoAgent.GetSignCertInfo("SubjectCN");
+	    if (!InfoContent) {
+		var errorDesc = CryptoAgent.GetLastErrorDesc();
+		alert(errorDesc);
+		return;
+	    }
+	    return infoContent
+	} catch (e) {
+	    var errorDesc = CryptoAgent.GetLastErrorDesc();
+	    alert(errorDesc);
+	}
 ```
 
 * [demo]()
