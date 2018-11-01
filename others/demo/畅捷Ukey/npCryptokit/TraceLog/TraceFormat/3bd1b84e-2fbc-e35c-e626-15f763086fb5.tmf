@@ -1,0 +1,10 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+3bd1b84e-2fbc-e35c-e626-15f763086fb5 CryptoKernel // SRC=ASN1Utility.cpp MJ= MN=
+#typev  ASN1Utility_cpp129 13 "%0Recursive Count:%10!u!" //   LEVEL=INFO FUNC=DecodeASN1Memory
+{
+recursiveCount, ItemLong -- 10
+}
+#typev  ASN1Utility_cpp101 12 "%0Parse CRL distribute points root node failed" //   LEVEL=ERR FUNC=DecodeASN1Memory
+{
+}

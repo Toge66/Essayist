@@ -1,0 +1,7 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+f19600c8-f9ce-67af-2e80-5e907123c3a2 CryptoUIKernel // SRC=FoundationLibrary.cpp MJ= MN=
+#typev  FoundationLibrary_cpp19 10 "%0Image data size: %10!u!" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+dwImageDataSize, ItemLong -- 10
+}

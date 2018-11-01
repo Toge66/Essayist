@@ -1,0 +1,7 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+35a83849-346d-fc20-333e-d10469527ae7 CryptoUIKernel // SRC=FoundationLibrary.cpp MJ= MN=
+#typev  FoundationLibrary_cpp19 10 "%0Image data size: %10!u!" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+dwImageDataSize, ItemLong -- 10
+}

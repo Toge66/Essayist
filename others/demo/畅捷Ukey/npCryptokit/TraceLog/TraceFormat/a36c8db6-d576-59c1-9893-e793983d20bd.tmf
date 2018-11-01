@@ -1,0 +1,31 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+a36c8db6-d576-59c1-9893-e793983d20bd CryptoUIKernel // SRC=SelectCertificateDlg.cpp MJ= MN=
+#typev  SelectCertificateDlg_cpp46 10 "%0Selected iten index: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::OnOK
+{
+nSelectedItemIndex, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  SelectCertificateDlg_cpp124 14 "%0CryptGetProvParam(PP_IMPTYPE) dwImpType: %10!u!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+dwImpType, ItemLong -- 10
+}
+#typev  SelectCertificateDlg_cpp122 13 "%0CryptGetProvParam return: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+nRetCode, ItemLong -- 10
+}
+#typev  SelectCertificateDlg_cpp118 12 "%0CryptAcquireCertificatePrivateKey return: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+nRetCode, ItemLong -- 10
+}
+#typev  SelectCertificateDlg_cpp114 11 "%0Certificate index: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+nIndex, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  SelectCertificateDlg_cpp318 16 "%0Certificate count: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::OnInitDialog
+{
+(int)m_vtrCertificateSet.size(), ItemLong -- 10
+}

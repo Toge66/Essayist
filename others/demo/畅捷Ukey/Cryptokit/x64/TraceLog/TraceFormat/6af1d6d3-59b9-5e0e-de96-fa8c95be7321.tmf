@@ -1,0 +1,10 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+6af1d6d3-59b9-5e0e-de96-fa8c95be7321 CryptoKernel // SRC=ASN1Utility.cpp MJ= MN=
+#typev  ASN1Utility_cpp129 13 "%0Recursive Count:%10!u!" //   LEVEL=INFO FUNC=DecodeASN1Memory
+{
+recursiveCount, ItemLong -- 10
+}
+#typev  ASN1Utility_cpp101 12 "%0Parse CRL distribute points root node failed" //   LEVEL=ERR FUNC=DecodeASN1Memory
+{
+}

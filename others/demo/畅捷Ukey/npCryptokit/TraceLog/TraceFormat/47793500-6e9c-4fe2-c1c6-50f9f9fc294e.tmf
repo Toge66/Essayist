@@ -1,0 +1,62 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+47793500-6e9c-4fe2-c1c6-50f9f9fc294e CryptoKernel // SRC=UtilityASN1.cpp MJ= MN=
+#typev  UtilityASN1_cpp48 10 "%0ASN Value Length:%10!d!" //   LEVEL=INFO FUNC=CalculateASNValueLength
+{
+dwValueLength, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp199 22 "%0Tag:%10!x!, it is not supported tag" //   LEVEL=ERR FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp221 24 "%0Length encoded size:%10!d!" //   LEVEL=INFO FUNC=ASN1Encode
+{
+dwEncodedLengthSize, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp217 23 "%0Calucate the ASN1 value length failed" //   LEVEL=ERR FUNC=ASN1Encode
+{
+}
+#typev  UtilityASN1_cpp196 21 "%0Tag:%10!x!, it is CONTENT[0]" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp193 20 "%0Tag:%10!x!, it is BMP(UTF-16BE) STRING" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp190 19 "%0Tag:%10!x!, it is IA5 STRING" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp187 18 "%0Tag:%10!x!, it is Printable STRING" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp184 17 "%0Tag:%10!x!, it is UTF8 STRING" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp181 16 "%0Tag:%10!x!, it is OCTET STRING" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp178 15 "%0Tag:%10!x!, it is INTEGER" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp175 14 "%0Tag:%10!x!, it is OBJECT IDENTIFIER" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp172 13 "%0Tag:%10!x!, it is CONTENT" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp169 12 "%0Tag:%10!x!, it is SET" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}
+#typev  UtilityASN1_cpp166 11 "%0Tag:%10!x!, it is SEQUENCE" //   LEVEL=INFO FUNC=ASN1Encode
+{
+byTag, ItemLong -- 10
+}

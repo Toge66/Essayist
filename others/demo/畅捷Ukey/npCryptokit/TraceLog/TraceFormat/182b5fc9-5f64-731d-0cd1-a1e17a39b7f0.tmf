@@ -1,0 +1,15 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+182b5fc9-5f64-731d-0cd1-a1e17a39b7f0 npCryptoKit // SRC=NPAPIEntry.cpp MJ= MN=
+#typev  NPAPIEntry_cpp62 13 "%0NP_GetMIMEDescription" //   LEVEL=INFO FUNC=NP_GetMIMEDescription
+{
+}
+#typev  NPAPIEntry_cpp51 12 "%0NP_Shutdown" //   LEVEL=INFO FUNC=NP_Shutdown
+{
+}
+#typev  NPAPIEntry_cpp31 10 "%0NP_GetEntryPoints" //   LEVEL=INFO FUNC=NP_GetEntryPoints
+{
+}
+#typev  NPAPIEntry_cpp44 11 "%0NP_Initialize" //   LEVEL=INFO FUNC=NP_Initialize
+{
+}

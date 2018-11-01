@@ -1,0 +1,6 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+bce56e1e-6c55-832f-cc03-deec75ec0e9b NPAPIKernel // SRC=Plugin.cpp MJ= MN=
+#typev  Plugin_cpp71 10 "%0The g_pNPClassInstance is NULL" //   LEVEL=ERR FUNC=CPlugin::GetScriptableObject
+{
+}

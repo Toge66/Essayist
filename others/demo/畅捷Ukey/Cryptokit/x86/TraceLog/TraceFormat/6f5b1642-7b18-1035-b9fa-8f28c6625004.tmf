@@ -1,0 +1,248 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+6f5b1642-7b18-1035-b9fa-8f28c6625004 CryptoKit // SRC=MessageSigning.cpp MJ= MN=
+#typev  MessageSigning_cpp1028 62 "%0bstrSM2CSPList: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::SetSM2CSPList
+{
+bstrSM2CSPList, ItemWString -- 10
+}
+#typev  MessageSigning_cpp1329 73 "%0Unsupported hash algorithm." //   LEVEL=INFO FUNC=GetHashAlgorithmIDByName
+{
+}
+#typev  MessageSigning_cpp1309 72 "%0Hash algorithm name:%10!s!" //   LEVEL=INFO FUNC=GetHashAlgorithmIDByName
+{
+lpwAlgorithmName, ItemWString -- 10
+}
+#typev  MessageSigning_cpp1352 74 "%0UTF16:%10!s!" //   LEVEL=INFO FUNC=PromptMsg
+{
+wszMsg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp820 52 "%0verify signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS1
+{
+}
+#typev  MessageSigning_cpp808 51 "%0verify signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS1
+{
+}
+#typev  MessageSigning_cpp783 50 "%0bstrHashAlg: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS1
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp782 49 "%0Source data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS1
+{
+bstrSourceMsg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp781 48 "%0bstrSignAlg: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS1
+{
+bstrSignatureType, ItemWString -- 10
+}
+#typev  MessageSigning_cpp780 47 "%0Signature data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS1
+{
+bstrSignature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp299 26 "%0Cert issuer DN: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+#typev  MessageSigning_cpp290 25 "%0Cert Type: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+#typev  MessageSigning_cpp270 24 "%0CSP provider name:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+(char*) lpbyProviderName, ItemString -- 10
+}
+#typev  MessageSigning_cpp254 23 "%0CSP provider name:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+#typev  MessageSigning_cpp246 22 "%0Serial number: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+#typev  MessageSigning_cpp235 21 "%0Cert subject CN: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+#typev  MessageSigning_cpp215 20 "%0Cert subject DN: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+#typev  MessageSigning_cpp203 19 "%0info type:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+bstrInfoType, ItemWString -- 10
+}
+#typev  MessageSigning_cpp374 30 "%0It's RSA Certificate" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1
+{
+}
+#typev  MessageSigning_cpp353 29 "%0It's SM2 Certificate" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1
+{
+}
+#typev  MessageSigning_cpp340 28 "%0bstrHashAlg: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp339 27 "%0Source data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp1072 66 "%0Error description: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetLastErrorDesc
+{
+wszErrorDesc, ItemWString -- 10
+}
+#typev  MessageSigning_cpp1064 65 "%0System error: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::GetLastErrorDesc
+{
+m_hLastError, ItemLong -- 10
+}
+#typev  MessageSigning_cpp1059 64 "%0Resource ID: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::GetLastErrorDesc
+{
+uResourceID, ItemLong -- 10
+}
+#typev  MessageSigning_cpp1057 63 "%0Custom error: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::GetLastErrorDesc
+{
+m_hLastError, ItemLong -- 10
+}
+#typev  MessageSigning_cpp489 34 "%0It's RSA Certificate" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7
+{
+}
+#typev  MessageSigning_cpp452 33 "%0It's SM2 Certificate" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7
+{
+}
+#typev  MessageSigning_cpp439 32 "%0bstrHashAlg: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp438 31 "%0Source data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp1231 70 "%0PKCS#7 content type:%10!s!" //   LEVEL=INFO FUNC=GetPKCS7Type
+{
+L'RSA_ENVELOPED_DATA', ItemWString -- 10
+}
+#typev  MessageSigning_cpp1226 69 "%0PKCS#7 content type:%10!s!" //   LEVEL=INFO FUNC=GetPKCS7Type
+{
+L'SM2_ENVELOPED_DATA', ItemWString -- 10
+}
+#typev  MessageSigning_cpp1221 68 "%0PKCS#7 content type:%10!s!" //   LEVEL=INFO FUNC=GetPKCS7Type
+{
+L'RSA_SIGNED_DATA', ItemWString -- 10
+}
+#typev  MessageSigning_cpp1216 67 "%0PKCS#7 content type:%10!s!" //   LEVEL=INFO FUNC=GetPKCS7Type
+{
+L'SM2_SIGNED_DATA', ItemWString -- 10
+}
+#typev  MessageSigning_cpp912 56 "%0verify signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Attached
+{
+}
+#typev  MessageSigning_cpp900 55 "%0verify signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Attached
+{
+}
+#typev  MessageSigning_cpp885 54 "%0Signature type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Attached
+{
+bstrSignatureType, ItemWString -- 10
+}
+#typev  MessageSigning_cpp884 53 "%0Signature data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Attached
+{
+bstrSignature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp992 61 "%0verify signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Detached
+{
+}
+#typev  MessageSigning_cpp980 60 "%0verify signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Detached
+{
+}
+#typev  MessageSigning_cpp960 59 "%0Source data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Detached
+{
+bstrSourceMsg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp959 58 "%0Signature type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Detached
+{
+bstrSignatureType, ItemWString -- 10
+}
+#typev  MessageSigning_cpp958 57 "%0Signature data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyMsgSignaturePKCS7Detached
+{
+bstrSignature, ItemWString -- 10
+}
+#typev  MessageSigning_cpp1269 71 "%0pfx file name: %10!s!" //   LEVEL=INFO FUNC=CreateCertContextByPFX
+{
+bstrPFXFileName, ItemWString -- 10
+}
+#typev  MessageSigning_cpp118 18 "%0CustomCryptUIDlgSelectCertificate hResult: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+(UINT)hResult, ItemLong -- 10
+}
+#typev  MessageSigning_cpp105 17 "%0Available certificate count: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+(int)vtrCertificateSet.size(), ItemLong -- 10
+}
+#typev  MessageSigning_cpp91 16 "%0Unregistered SM2 cert count: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+vtrUnRegistedCertSet.size(), ItemLong -- 10
+}
+#typev  MessageSigning_cpp81 15 "%0RSA cert count: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+vtrCertificateSet.size(), ItemLong -- 10
+}
+#typev  MessageSigning_cpp70 14 "%0lpSerialNumBinaryData: 0x%10!x!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+(unsigned long)lpSerialNumBinaryData, ItemLong -- 10
+}
+#typev  MessageSigning_cpp69 13 "%0dwSerialNumBinaryDataLen: %10!ld!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+dwSerialNumBinaryDataLen, ItemLong -- 10
+}
+#typev  MessageSigning_cpp54 12 "%0Serial num: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+bstrSerialNumFilter, ItemWString -- 10
+}
+#typev  MessageSigning_cpp53 11 "%0Issuer filter: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+bstrIssuerDNFilter, ItemWString -- 10
+}
+#typev  MessageSigning_cpp52 10 "%0Subject filter: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SelectCertificate
+{
+bstrSubjectDNFilter, ItemWString -- 10
+}
+#typev  MessageSigning_cpp587 40 "%0It's RSA sign" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1_BySoftCert
+{
+}
+#typev  MessageSigning_cpp568 39 "%0It's SM2 sign" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1_BySoftCert
+{
+}
+#typev  MessageSigning_cpp549 38 "%0Hash Algorithm: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1_BySoftCert
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp548 37 "%0Source data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1_BySoftCert
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp547 36 "%0Soft Cert type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1_BySoftCert
+{
+bstrSoftCertType, ItemWString -- 10
+}
+#typev  MessageSigning_cpp546 35 "%0Certificate file name: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS1_BySoftCert
+{
+bstrSoftCertFileName, ItemWString -- 10
+}
+#typev  MessageSigning_cpp710 46 "%0It's RSA sign" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7_BySoftCert
+{
+}
+#typev  MessageSigning_cpp685 45 "%0It's SM2 sign" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7_BySoftCert
+{
+}
+#typev  MessageSigning_cpp666 44 "%0bstrHashAlg: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7_BySoftCert
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  MessageSigning_cpp665 43 "%0Source data: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7_BySoftCert
+{
+bstrSourceData, ItemWString -- 10
+}
+#typev  MessageSigning_cpp664 42 "%0Soft Cert type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7_BySoftCert
+{
+bstrSoftCertType, ItemWString -- 10
+}
+#typev  MessageSigning_cpp663 41 "%0Cert file name: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignMsgPKCS7_BySoftCert
+{
+bstrSoftCertFileName, ItemWString -- 10
+}

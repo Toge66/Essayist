@@ -1,0 +1,9 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+b29a3319-642e-7a86-a3f0-940049b805bc SMKernel // SRC=PKCS7SignedDataOperations.cpp MJ= MN=
+#typev  PKCS7SignedDataOperations_cpp699 11 "%0It's a PKCS#7 detached signature" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+}
+#typev  PKCS7SignedDataOperations_cpp665 10 "%0It's a PKCS#7 attached signature" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+}

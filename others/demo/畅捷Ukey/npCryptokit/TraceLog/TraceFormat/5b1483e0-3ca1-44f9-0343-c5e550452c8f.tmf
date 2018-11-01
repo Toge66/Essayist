@@ -1,0 +1,135 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+5b1483e0-3ca1-44f9-0343-c5e550452c8f npCryptoKit // SRC=npMessageSigning.cpp MJ= MN=
+#typev  npMessageSigning_cpp856 34 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetLastErrorDesc
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageSigning_cpp854 33 "%0Convert string to npvariant. Description: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetLastErrorDesc
+{
+lpUTF8Description, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp533 32 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS7_BySoftCert
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageSigning_cpp531 31 "%0Convert string to npvariant. Signature: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS7_BySoftCert
+{
+lpUTF8Signature, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp526 30 "%0bstrSignature:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS7_BySoftCert
+{
+bstrSignature, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp409 29 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS1_BySoftCert
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageSigning_cpp407 28 "%0Convert string to npvariant. Signature: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS1_BySoftCert
+{
+lpUTF8Signature, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp402 27 "%0bstrSignature:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS1_BySoftCert
+{
+bstrSignature, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp297 26 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS7
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageSigning_cpp295 25 "%0Convert string to npvariant. Signature: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS7
+{
+lpUTF8Signature, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp290 24 "%0bstrSignature:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS7
+{
+bstrSignature, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp281 23 "%0Hash Algorithm:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS7
+{
+lpwUTF16HashAlg, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp273 22 "%0SourceData:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS7
+{
+lpwUTF16SourceData, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp211 21 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS1
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageSigning_cpp209 20 "%0Convert string to npvariant. Signature: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS1
+{
+lpUTF8Signature, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp204 19 "%0bstrSignature:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS1
+{
+bstrSignature, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp198 18 "%0Hash algorithm: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS1
+{
+lpwUTF16HashAlg, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp190 17 "%0SourceData:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignMsgPKCS1
+{
+lpwUTF16SourceData, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp133 16 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetSignCertInfo
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageSigning_cpp131 15 "%0Convert string to npvariant. Content Info: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetSignCertInfo
+{
+lpUTF8InfoContent, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp126 14 "%0bstrInfoContent:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetSignCertInfo
+{
+bstrInfoContent, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp121 13 "%0InfoType:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetSignCertInfo
+{
+lpwUTF16InfoType, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageSigning_cpp67 12 "%0SNFilter:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectCertificate
+{
+lpwUTF16SNFilter, ItemWString -- 10
+}
+#typev  npMessageSigning_cpp66 11 "%0IssuerFilter:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectCertificate
+{
+lpwUTF16IssuerDNFilter, ItemWString -- 10
+}
+#typev  npMessageSigning_cpp65 10 "%0SubjectFilter:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectCertificate
+{
+lpwUTF16SubjectDNFilter, ItemWString -- 10
+}

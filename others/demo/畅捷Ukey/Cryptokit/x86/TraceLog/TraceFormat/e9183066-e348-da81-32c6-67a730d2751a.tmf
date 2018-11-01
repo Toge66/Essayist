@@ -1,0 +1,7 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+e9183066-e348-da81-32c6-67a730d2751a CryptoUIKernel // SRC=CertificateListCtrl.cpp MJ= MN=
+#typev  CertificateListCtrl_cpp132 10 "%0Cursor item: %10!d!" //   LEVEL=INFO FUNC=CCertificateList::OnLButtonDblClk
+{
+nCursorItemIndex, ItemLong -- 10
+}

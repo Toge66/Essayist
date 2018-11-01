@@ -1,0 +1,170 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+b2eda441-d512-f63f-58a8-cc86d400a4cb CryptoKernel // SRC=CertificateChainOperate.cpp MJ= MN=
+#typev  CertificateChainOperate_cpp905 68 "%0node value: [%10!s!]." //   LEVEL=INFO FUNC=GetNodeValue
+{
+*bstrNodeValue, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp894 67 "%0node value length: [%10!d!]." //   LEVEL=INFO FUNC=GetNodeValue
+{
+iNodeValueSize, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp847 66 "%0Success Find the node :[%10!s!]." //   LEVEL=INFO FUNC=FindChildNode
+{
+bstrChildNodeName, ItemWString -- 10
+}
+#typev  CertificateChainOperate_cpp838 65 "%0Current parse Node Name :[%10!s!]and Index [%11!ld!]." //   LEVEL=INFO FUNC=FindChildNode
+{
+bstrCurrentChildNodeName, ItemWString -- 10
+i, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp828 64 "%0Current parse Node Index :[%10!ld!]" //   LEVEL=INFO FUNC=FindChildNode
+{
+i, ItemLong -- 10
+}
+#typev  CertificateChainOperate_cpp811 63 "%0Child node list length: [%10!ld!]." //   LEVEL=INFO FUNC=FindChildNode
+{
+lChildListLength, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp799 62 "%0node name which to find :[%10!s!]." //   LEVEL=INFO FUNC=FindChildNode
+{
+bstrChildNodeName, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp771 61 "%0Root Node Name [%10!s!]" //   LEVEL=INFO FUNC=GetXMLRootNode
+{
+bstrNodeName, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp1301 80 "%0load xml dom document success !" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp1285 79 "%0To new memory dataSize:[%10!u!]" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+dwResDataSize+1, ItemLong -- 10
+}
+#typev  CertificateChainOperate_cpp1284 78 "%0add ending character to data" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp1273 77 "%0enter parameter Data Size:[%10!u!]" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+dwResDataSize, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp995 71 "%0get Import Path:[%10!s!]" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+stCertRegeditInfo.pwsImportPath, ItemWString -- 10
+}
+#typev  CertificateChainOperate_cpp999 72 "%0get Entry Point :[%10!s!]" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+stCertRegeditInfo.pwsEntryPoint, ItemWString -- 10
+}
+#typev  CertificateChainOperate_cpp1003 73 "%0get registered Content:[%10!s!]" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+stCertRegeditInfo.pwsContent, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp983 70 "%0node Index [%10!ld!]." //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+i, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp965 69 "%0RegeditInfo node list length: [%10!ld!]" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+lChlidListLength, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp625 52 "%0add certificate to store success" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+}
+#typev  CertificateChainOperate_cpp618 51 "%0Certificate has existed" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+}
+#typev  CertificateChainOperate_cpp602 50 "%0Root certificate(BOOL): %10!d!" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+bIsRootCert, ItemLong -- 10
+}
+#typev  CertificateChainOperate_cpp596 49 "%0query certificate subject DN:[%10!s!]" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+lpwCertSubjectDN, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp586 48 "%0Open CA certificate store SUCCESS." //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp1155 76 "%0Current parse Node Name [%10!s!] and Index [%11!ld!]" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+bstrNodeName, ItemWString -- 10
+i, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp1148 75 "%0Current parse Node Index [%10!ld!]" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+i, ItemLong -- 10
+}
+#typev  CertificateChainOperate_cpp1130 74 "%0the number of RootCACertficate child node : [%10!ld!]" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+lCertificateListLength, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp482 46 "%0CryptEnumProviders(ERROR_NO_MORE_ITEMS)" //   LEVEL=INFO FUNC=GetAllCSPName
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp487 47 "%0CryptEnumProviders() encounter an invalid CSP(0x%10!08x!)." //   LEVEL=INFO FUNC=GetAllCSPName
+{
+HRESULT_FROM_WIN32(dwErrorCode), ItemLong -- 10
+}
+#typev  CertificateChainOperate_cpp463 45 "%0Find provider name is (%10!s!)." //   LEVEL=INFO FUNC=GetAllCSPName
+{
+pwstrProvName, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp455 44 "%0Provider name Length is %10!d!." //   LEVEL=INFO FUNC=GetAllCSPName
+{
+dwProvNameSize, ItemLong -- 10
+}
+#typev  CertificateChainOperate_cpp454 43 "%0Provider type is %10!d!." //   LEVEL=INFO FUNC=GetAllCSPName
+{
+dwProvideType, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp1397 81 "%0Import certificate chain success!" //   LEVEL=INFO FUNC=ImportCertificateChainfromBlobData
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  CertificateChainOperate_cpp1424 83 "%0load Resource Section name: %10!s!" //   LEVEL=INFO FUNC=ImportCertificateChainfromResoure
+{
+lpSection, ItemWString -- 10
+}
+#typev  CertificateChainOperate_cpp1423 82 "%0load Resource ID: [%10!u!]" //   LEVEL=INFO FUNC=ImportCertificateChainfromResoure
+{
+uResID, ItemLong -- 10
+}

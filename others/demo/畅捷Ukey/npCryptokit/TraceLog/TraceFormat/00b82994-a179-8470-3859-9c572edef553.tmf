@@ -1,0 +1,130 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+00b82994-a179-8470-3859-9c572edef553 CryptoKernel // SRC=CertificateChainDelete.cpp MJ= MN=
+#typev  CertificateChainDelete_cpp76 13 "%0CertDeleteCertificateFromStore: 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+GetLastError(), ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp68 12 "%0CertDuplicateCertificateContext: 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+GetLastError(), ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp61 11 "%0Available certificate count[%10!s!]: %11!d!" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+lpwszFlag, ItemWString -- 10
+nCertCount, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateChainDelete_cpp42 10 "%0Delete Cert store: %10!s!" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+lpwszFlag, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateChainDelete_cpp159 21 "%0EntryPoint: %10!s!" //   LEVEL=INFO FUNC=DeleteTrustedRootCert
+{
+lpwszEntryPoint, ItemWString -- 10
+}
+#typev  CertificateChainDelete_cpp158 20 "%0ImportPath: %10!s!" //   LEVEL=INFO FUNC=DeleteTrustedRootCert
+{
+lpwszImportPath, ItemWString -- 10
+}
+#typev  CertificateChainDelete_cpp157 19 "%0IssuerDN: %10!s!" //   LEVEL=INFO FUNC=DeleteTrustedRootCert
+{
+lpwszIssuerDNFilter, ItemWString -- 10
+}
+#typev  CertificateChainDelete_cpp156 18 "%0DN: %10!s!" //   LEVEL=INFO FUNC=DeleteTrustedRootCert
+{
+lpwszDNFilter, ItemWString -- 10
+}
+#typev  CertificateChainDelete_cpp155 17 "%0SN: %10!s!" //   LEVEL=INFO FUNC=DeleteTrustedRootCert
+{
+lpwszSN, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateChainDelete_cpp108 16 "%0IssuerDN: %10!s!" //   LEVEL=INFO FUNC=DeleteIntermediateCert
+{
+lpwszIssuerDNFilter, ItemWString -- 10
+}
+#typev  CertificateChainDelete_cpp107 15 "%0DN: %10!s!" //   LEVEL=INFO FUNC=DeleteIntermediateCert
+{
+lpwszDNFilter, ItemWString -- 10
+}
+#typev  CertificateChainDelete_cpp106 14 "%0SN: %10!s!" //   LEVEL=INFO FUNC=DeleteIntermediateCert
+{
+lpwszSN, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateChainDelete_cpp371 40 "%0DeleteTrustedRootCert(CN=CFCA CS SM2 CA[172f4259]): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteSM2DiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp363 39 "%0DeleteIntermediateCert(CFCA TEST SM2 OCA11): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteSM2DiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp357 38 "%0DeleteIntermediateCert(O=CFCA SM2 OCA1, C=CN): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteSM2DiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp349 37 "%0DeleteTrustedRootCert(CFCA SM2 RCA[1f42c222]): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteSM2DiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp341 36 "%0DeleteIntermediateCert(O=CFCA SM2 TEST OCA21, C=CN): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteSM2DiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp332 35 "%0DeleteTrustedRootCert(CN=CFCA CS TEST SM2 CA[18a358ea]): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteSM2DiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp324 34 "%0DeleteIntermediateCert(CFCA TEST SM2 OCA11): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteSM2DiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp318 33 "%0DeleteIntermediateCert(O=BOC SM2, C=CN): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteSM2DiscardCert
+{
+hResult, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateChainDelete_cpp295 32 "%0DeleteTrustedRootCert(CN=CFCA CS TEST CA[154283FE] root): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp287 31 "%0DeleteIntermediateCert(CN=CFCA TEST CA, C=CN): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp281 30 "%0DeleteIntermediateCert(O=CFCA RSA TEST OCA21, C=CN): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp272 29 "%0DeleteTrustedRootCert(CN=CFCA CS TEST CA[1B8652F5] root): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp264 28 "%0DeleteIntermediateCert(CN=CFCA TEST OCA11, O=China Financial Certification Authority, C=CN): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp255 27 "%0DeleteTrustedRootCert(O=CFCA[4749] root): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp246 26 "%0DeleteIntermediateCert(O=BOC, C=CN): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp237 25 "%0DeleteTrustedRootCert(O=CFCA RCA[SN:3cfc75ab] root): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}
+#typev  CertificateChainDelete_cpp229 24 "%0DeleteIntermediateCert(O=CFCA TEST CA, C=CN): 0x%10!08x!" //   LEVEL=INFO FUNC=DeleteRSADiscardCert
+{
+hResult, ItemLong -- 10
+}

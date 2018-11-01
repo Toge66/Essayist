@@ -1,0 +1,1519 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+c32073f4-f359-3f1a-9a1f-0de9e727d6d6 SMKernel // SRC=Misc.cpp MJ= MN=
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent_ProcessOneNode
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent_ProcessOneNode
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent_ProcessOneNode
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent_ProcessOneNode
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent_ProcessOneNode
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent_ProcessOneNode
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent_ProcessOneNode
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent_ProcessOneNode
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetEVPCipherbyNID
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetEVPCipherbyNID
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptFileEnvelopeContent
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptFileEnvelopeContent
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckX509KeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckX509KeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConvertCertDataToX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConvertCertDataToX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConvertCertDataToX509
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConvertCertDataToX509
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckCertKeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckCertKeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CheckCertKeyUsage
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CheckCertKeyUsage
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHash
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3Hash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3Hash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3Hash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3Hash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3Hash
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3Hash
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHashEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHashEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=CalculateSM3FileHashEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=CalculateSM3FileHashEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_Raw
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_Raw
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_ByKeyPair
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_ByKeyPair
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_Raw_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_Raw_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_VerifyFileSignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS1_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS1_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS1_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS1_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS1_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS1_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS1_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS1_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignFile_PKCS7Detached_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS7Detached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS7Detached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS7Attached
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS7Attached
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SignData_PKCS7_BySM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SignData_PKCS7_BySM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=VerifySignature_PKCS1_ByCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=VerifySignature_PKCS1_ByCert
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64DecodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64DecodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64DecodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64DecodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64DecodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64DecodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64EncodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Base64EncodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Decrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Decrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Encrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Encrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Encrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Encrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4_Encrypt_CBC
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4_Encrypt_CBC
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Decrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Decrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Decrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Decrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Decrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Decrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM2_Encrypt
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM2_Encrypt
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4DecryptByPin
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4DecryptByPin
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=SM4DecryptByPin
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=SM4DecryptByPin
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeFile
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeFile
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeFile
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeFile
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeFile
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeFile
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptDerCMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptDerCMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptBase64CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptBase64CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptBase64CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptBase64CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptFileToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptFileToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptFileToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptFileToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptFileToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptFileToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToDerCMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToDerCMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToBase64CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToBase64CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncryptDataToBase64CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncryptDataToBase64CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=TraceError
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=TraceInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetFileSize_Ex
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetFileSize_Ex
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetFileSize_Ex
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetFileSize_Ex
+{
+pszTraceInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=EncodeASN1ToMemory
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=EncodeASN1ToMemory
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ASN1Encode
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ASN1Encode
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ASN1Encode
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ASN1Encode
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DuplicateNodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DuplicateNodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DuplicateNodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DuplicateNodeEx
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DuplicateNodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DuplicateNodeEx
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_AlgorithmIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_AlgorithmIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_AlgorithmIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_AlgorithmIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EnvelopedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EnvelopedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EnvelopedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EnvelopedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EnvelopedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EnvelopedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_EncryptedContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_EncryptedContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_KeyTransRecipientInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_AlgorithmIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_AlgorithmIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_AlgorithmIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_AlgorithmIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ObjectIdentifier
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ObjectIdentifier
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeFile
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeFile
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_CMSEnvelopeData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_CMSEnvelopeData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Cipher
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Cipher
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_ContentInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_ContentInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_CMSEnvelope
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_CMSEnvelope
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSubjectKeyIDFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSubjectKeyIDFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSubjectKeyIDFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSubjectKeyIDFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSubjectKeyIDFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSubjectKeyIDFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSerialNumberFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSerialNumberFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSerialNumberFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSerialNumberFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSerialNumberFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetSerialNumberFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetSerialNumberFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetIssuerFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetIssuerFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetIssuerFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetIssuerFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetIssuerFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetIssuerFromCert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetIssuerFromCert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=GetPublicKeyXYFromSM2Cert
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParseSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParseSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParseSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParseSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptKeyPairFromSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptKeyPairFromSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptKeyPairFromSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptKeyPairFromSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=DecryptKeyPairFromSM2PFX
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=DecryptKeyPairFromSM2PFX
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_IssuerAndSerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_IssuerAndSerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_IssuerAndSerialNumber
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_IssuerAndSerialNumber
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignedData
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignedData
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Decode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Decode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_SM2Q1
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_SM2Q1
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ConstructNode_SignerInfo
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=ParsePKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp29 10 "%0%10!s!" //   LEVEL=INFO FUNC=Encode_PKCS7Signature
+{
+pszTraceInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}
+#typev  Misc_cpp34 11 "%0%10!s!" //   LEVEL=ERR FUNC=Encode_PKCS7Signature
+{
+pszErrorInfo, ItemString -- 10
+}

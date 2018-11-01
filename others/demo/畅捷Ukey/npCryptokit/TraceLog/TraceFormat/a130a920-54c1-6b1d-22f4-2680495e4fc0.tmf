@@ -1,0 +1,112 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+a130a920-54c1-6b1d-22f4-2680495e4fc0 npCryptoKit // SRC=ScriptablePluginObject.cpp MJ= MN=
+#typev  ScriptablePluginObject_cpp377 34 "%0NPN_MemAlloc failed." //   LEVEL=WARNING FUNC=CScriptablePluginObject::ConvertStringToNPVariant
+{
+}
+#typev  ScriptablePluginObject_cpp372 33 "%0Source string length: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::ConvertStringToNPVariant
+{
+uSourceStringLen, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp367 32 "%0lpSourceString == NULL" //   LEVEL=WARNING FUNC=CScriptablePluginObject::ConvertStringToNPVariant
+{
+}
+#typev  ScriptablePluginObject_cpp346 31 "%0Out string length: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::InvokeDefault
+{
+uOutStringLen, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  ScriptablePluginObject_cpp168 28 "%0CScriptablePluginObject::SetProperty: name = %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::SetProperty
+{
+NPN_UTF8FromIdentifier(name), ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  ScriptablePluginObject_cpp158 27 "%0CScriptablePluginObject::GetProperty: name = %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::GetProperty
+{
+NPN_UTF8FromIdentifier(name), ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  ScriptablePluginObject_cpp148 26 "%0CScriptablePluginObject::HasProperty name = %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::HasProperty
+{
+NPN_UTF8FromIdentifier(name), ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  ScriptablePluginObject_cpp140 25 "%0This method is not supported." //   LEVEL=WARNING FUNC=CScriptablePluginObject::HasMethod
+{
+}
+#typev  ScriptablePluginObject_cpp94 24 "%0CScriptablePluginObject::HasMethod name = %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::HasMethod
+{
+NPN_UTF8FromIdentifier(name), ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  ScriptablePluginObject_cpp44 21 "%0args[%10!d!] Type: Unknow type" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp41 20 "%0args[%10!d!] Type: NPVariantType_Object" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp38 19 "%0args[%10!d!] Type: NPVariantType_String" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp35 18 "%0args[%10!d!].value.doubleValue = %11!s!" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+args[i].value.doubleValue, ItemDouble -- 11
+}
+#typev  ScriptablePluginObject_cpp34 17 "%0args[%10!d!] Type: NPVariantType_Double" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp31 16 "%0args[%10!d!].value.intValue = %11!d!" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+args[i].value.intValue, ItemLong -- 11
+}
+#typev  ScriptablePluginObject_cpp30 15 "%0args[%10!d!] Type: NPVariantType_Int32" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp27 14 "%0args[%10!d!].value.boolValue = %11!d!" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+args[i].value.boolValue, ItemLong -- 11
+}
+#typev  ScriptablePluginObject_cpp26 13 "%0args[%10!d!] Type: NPVariantType_Bool" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp23 12 "%0args[%10!d!] Type: NPVariantType_Null" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp20 11 "%0args[%10!d!] Type: NPVariantType_Void" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+i, ItemLong -- 10
+}
+#typev  ScriptablePluginObject_cpp12 10 "%0argCount = %10!d!" //   LEVEL=INFO FUNC=TraceParameterInfo
+{
+argCount, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  ScriptablePluginObject_cpp74 23 "%0AllocateCScriptableObject" //   LEVEL=INFO FUNC=AllocateCScriptableObject
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  ScriptablePluginObject_cpp331 30 "%0Invalid function." //   LEVEL=ERR FUNC=CScriptablePluginObject::Invoke
+{
+}
+#typev  ScriptablePluginObject_cpp180 29 "%0CScriptablePluginObject::Invoke: name = %10!s!, argCount = %11!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::Invoke
+{
+NPN_UTF8FromIdentifier(name), ItemString -- 10
+argCount, ItemLong -- 11
+}

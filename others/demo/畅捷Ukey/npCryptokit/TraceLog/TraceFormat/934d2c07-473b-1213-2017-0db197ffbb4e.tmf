@@ -1,0 +1,48 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+934d2c07-473b-1213-2017-0db197ffbb4e CryptoKernel // SRC=Misc.cpp MJ= MN=
+#typev  Misc_cpp758 33 "%0find provider name is (%10!s!)" //   LEVEL=INFO FUNC=GetAESProviderName
+{
+pwstrProvName, ItemWString -- 10
+}
+#typev  Misc_cpp748 32 "%0find provider name Length is %10!u! " //   LEVEL=INFO FUNC=GetAESProviderName
+{
+dwProvNameSize, ItemLong -- 10
+}
+#typev  Misc_cpp732 31 "%0find provider type is %10!u! " //   LEVEL=INFO FUNC=GetAESProviderName
+{
+dwFindProvType, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp596 29 "%0File size: %10!u!" //   LEVEL=INFO FUNC=ReadFileSimple
+{
+dwFileSize, ItemLong -- 10
+}
+#typev  Misc_cpp573 28 "%0Target file path: %10!s!" //   LEVEL=INFO FUNC=ReadFileSimple
+{
+lpwFilePathName, ItemWString -- 10
+}
+#typev  Misc_cpp568 27 "%0Invalid parameter." //   LEVEL=INFO FUNC=ReadFileSimple
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp401 23 "%0Invalid parameter." //   LEVEL=INFO FUNC=ConvertStringToBinaryData
+{
+}
+#typev  Misc_cpp383 22 "%0Invalid parameter." //   LEVEL=INFO FUNC=ConvertStringToBinaryData
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp794 34 "%0Algorithm is (%10!d!)" //   LEVEL=INFO FUNC=CryptAcquireContextbyAlgorithm
+{
+uAlgorithm, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  Misc_cpp49 10 "%0Splitted string: %10!s!" //   LEVEL=INFO FUNC=SplitStrings
+{
+lpwBuffer, ItemWString -- 10
+}

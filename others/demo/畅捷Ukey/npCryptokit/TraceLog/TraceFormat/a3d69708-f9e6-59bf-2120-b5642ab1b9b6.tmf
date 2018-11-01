@@ -1,0 +1,14 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+a3d69708-f9e6-59bf-2120-b5642ab1b9b6 NPAPIKernel // SRC=NPPGate.cpp MJ= MN=
+#typev  NPPGate_cpp109 11 "%0NPP_GetValue value = %10!d!" //   LEVEL=INFO FUNC=NPP_GetValue
+{
+variable, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  NPPGate_cpp51 10 "%0NPP_New  NPMIMEType=%10!s!,mode = %11!d!" //   LEVEL=INFO FUNC=NPP_New
+{
+pluginType, ItemString -- 10
+mode, ItemLong -- 11
+}

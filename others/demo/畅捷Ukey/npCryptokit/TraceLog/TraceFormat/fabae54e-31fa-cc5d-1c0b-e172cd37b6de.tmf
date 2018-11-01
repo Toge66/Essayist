@@ -1,0 +1,20 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+fabae54e-31fa-cc5d-1c0b-e172cd37b6de SMKernel // SRC=CertificateOperations.cpp MJ= MN=
+#typev  CertificateOperations_cpp490 18 "%0All the check bits must be present." //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+}
+#typev  CertificateOperations_cpp487 17 "%0uiCheckBits(0x%10!08x!)" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+uiCheckBits, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp486 16 "%0pX509->ex_kusage(0x%10!08x!)" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pX509->ex_kusage, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp482 15 "%0pX509->ex_flags(0x%10!08x!)" //   LEVEL=INFO FUNC=CheckX509KeyUsage
+{
+pX509->ex_flags, ItemLong -- 10
+}

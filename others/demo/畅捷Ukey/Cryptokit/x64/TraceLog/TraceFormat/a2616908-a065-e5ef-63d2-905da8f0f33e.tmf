@@ -1,0 +1,43 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+a2616908-a065-e5ef-63d2-905da8f0f33e SMKernel // SRC=DataSigning.cpp MJ= MN=
+#typev  DataSigning_cpp253 11 "%0Bytes to read from file: %10!d!" //   LEVEL=INFO FUNC=CalculateSM3FileHash
+{
+ulBytesToRead, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  DataSigning_cpp1519 21 "%0It's SM2 ASN.1 encoded Q1 signature." //   LEVEL=INFO FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+}
+#typev  DataSigning_cpp1511 20 "%0It's SM2 raw RS signature." //   LEVEL=INFO FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+}
+#typev  DataSigning_cpp1507 19 "%0SM2 PKCS#1 signature size:%10!d!" //   LEVEL=INFO FUNC=VerifyFileSignature_PKCS1_ByCert
+{
+nPKCS1Signature, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  DataSigning_cpp1212 18 "%0fSignatureEncodedType = 0x%10!04x!" //   LEVEL=INFO FUNC=SignFile_PKCS1_BySM2PFX
+{
+fSignatureEncodedType, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  DataSigning_cpp627 16 "%0It's SM2 ASN.1 encoded Q1 signature." //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+}
+#typev  DataSigning_cpp620 15 "%0It's SM2 raw RS signature." //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+}
+#typev  DataSigning_cpp615 14 "%0SM2 PKCS#1 signature size:%10!d!" //   LEVEL=INFO FUNC=VerifySignature_DERPKCS1_ByCert
+{
+nDERPKCS1SignatureSize, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  DataSigning_cpp537 13 "%0fSignatureEncodedType = 0x%10!04x!" //   LEVEL=INFO FUNC=SignData_PKCS1_BySM2PFX
+{
+fSignatureEncodedType, ItemLong -- 10
+}

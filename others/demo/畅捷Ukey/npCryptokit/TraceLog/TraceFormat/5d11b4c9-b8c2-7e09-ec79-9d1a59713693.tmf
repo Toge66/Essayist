@@ -1,0 +1,53 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+5d11b4c9-b8c2-7e09-ec79-9d1a59713693 npCryptoKit // SRC=npFileSigning.cpp MJ= MN=
+#typev  npFileSigning_cpp373 19 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS7Detached_BySoftCert
+{
+bResult, ItemLong -- 10
+}
+#typev  npFileSigning_cpp371 18 "%0Convert string to npvariant. Signature: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS7Detached_BySoftCert
+{
+lpUTF8Signature, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npFileSigning_cpp366 17 "%0bstrSignature:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS7Detached_BySoftCert
+{
+bstrSignature, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npFileSigning_cpp254 16 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS1_BySoftCert
+{
+bResult, ItemLong -- 10
+}
+#typev  npFileSigning_cpp252 15 "%0Convert string to npvariant. Signature: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS1_BySoftCert
+{
+lpUTF8Signature, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npFileSigning_cpp247 14 "%0bstrSignature:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS1_BySoftCert
+{
+bstrSignature, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npFileSigning_cpp141 13 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS7Detached
+{
+bResult, ItemLong -- 10
+}
+#typev  npFileSigning_cpp139 12 "%0Convert string to npvariant. signature: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS7Detached
+{
+lpUTF8Signature, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npFileSigning_cpp65 11 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS1
+{
+bResult, ItemLong -- 10
+}
+#typev  npFileSigning_cpp63 10 "%0Convert string to npvariant. signature: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSignFilePKCS1
+{
+lpUTF8Signature, ItemString -- 10
+}

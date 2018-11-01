@@ -1,0 +1,144 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+bef73101-4bbe-6e88-5e84-8aa31ae56272 CryptoKernel // SRC=ASN1Engine.cpp MJ= MN=
+#typev  ASN1Engine_cpp454 33 "%0Tag:0x%10!x!  ;Value Length:0x%11!x!   ;Value Start Position:0x%12!x!" //   LEVEL=INFO FUNC=PrintNode
+{
+pNode->Tag, ItemLong -- 10
+pNode->ValueLength, ItemLong -- 11
+(unsigned int)pNode->ValueStartPos, ItemLong -- 12
+}
+#typev  ASN1Engine_cpp451 32 "%0Primitive ASN.1 value" //   LEVEL=INFO FUNC=PrintNode
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp225 22 "%0fsetpos failed:0x%10!x!" //   LEVEL=ERR FUNC=GetInfiniteLength
+{
+(int)(pNode->ValueStartPos), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp210 21 "%0The node is not infinite length node" //   LEVEL=ERR FUNC=GetInfiniteLength
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp119 15 "%0Value Length:0x%10!x!" //   LEVEL=INFO FUNC=GetASN1ValueLength
+{
+*valueLength, ItemLong -- 10
+}
+#typev  ASN1Engine_cpp69 14 "%0Value length first byte value:0x%10!x!" //   LEVEL=INFO FUNC=GetASN1ValueLength
+{
+firstByteValue, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp58 13 "%0fread 1 bytes failed" //   LEVEL=ERR FUNC=GetASN1ValueLength
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp51 12 "%0fsetpos failed:0x%10!x!" //   LEVEL=ERR FUNC=GetASN1ValueLength
+{
+(int)(*lengthStartPos), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp41 11 "%0[%10!s!(%11!d!)]: start position is great than end position" //   LEVEL=ERR FUNC=GetASN1ValueLength
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+#typev  ASN1Engine_cpp34 10 "%0Value length start position:0x%10!x!" //   LEVEL=INFO FUNC=GetASN1ValueLength
+{
+(int)(*lengthStartPos), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp184 20 "%0GetASN1ValueLength Failed" //   LEVEL=ERR FUNC=ParseASN1TLV
+{
+}
+#typev  ASN1Engine_cpp171 19 "%0Tag value:0x%10!x!" //   LEVEL=INFO FUNC=ParseASN1TLV
+{
+(int)(*tag), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp162 18 "%0fread read tag value failed" //   LEVEL=ERR FUNC=ParseASN1TLV
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp155 17 "%0fsetpos failed startPosition value:0x%10!x!" //   LEVEL=ERR FUNC=ParseASN1TLV
+{
+(int)(*startPosition), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp145 16 "%0[%10!s!(%11!d!)]: start position is great than end position" //   LEVEL=ERR FUNC=ParseASN1TLV
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp344 26 "%0ParseASN1TLV failed" //   LEVEL=ERR FUNC=ParseNode
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp373 27 "%0ParseNode failed" //   LEVEL=ERR FUNC=ParseNode
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp404 29 "%0[%10!s!(%11!d!)]: position is not in file size range" //   LEVEL=ERR FUNC=ParseNode
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp429 31 "%0[%10!s!(%11!d!)]: Total length is not in memory size range" //   LEVEL=ERR FUNC=ParseNode
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp421 30 "%0[%10!s!(%11!d!)]: Total length is not in file size range" //   LEVEL=ERR FUNC=ParseNode
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp391 28 "%0[%10!s!(%11!d!)]: position is not in file size range" //   LEVEL=ERR FUNC=ParseNode
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp318 25 "%0[%10!s!(%11!d!)]: position is outof the memory range: pNode->MemoryLength=%12!d!; endPos=%13!d!" //   LEVEL=ERR FUNC=ParseNode
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+pNode->MemoryLength, ItemLong -- 12
+(int)endPos, ItemLong -- 13
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp310 24 "%0[%10!s!(%11!d!)]: position is outof the file range: pNode->FileLength=%12!d!; endPos=%13!d!" //   LEVEL=ERR FUNC=ParseNode
+{
+__FILE__, ItemString -- 10
+__LINE__, ItemLong -- 11
+pNode->FileLength, ItemLong -- 12
+(int)endPos, ItemLong -- 13
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  ASN1Engine_cpp277 23 "%0Too deeply recursive calling(count):%10!u!" //   LEVEL=ERR FUNC=ParseNode
+{
+recursiveCount, ItemLong -- 10
+}

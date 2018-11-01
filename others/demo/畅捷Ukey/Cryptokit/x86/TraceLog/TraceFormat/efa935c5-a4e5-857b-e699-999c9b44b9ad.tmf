@@ -1,0 +1,140 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+efa935c5-a4e5-857b-e699-999c9b44b9ad CryptoKernel // SRC=DataEncryption.cpp MJ= MN=
+#typev  DataEncryption_cpp937 33 "%0Found the certificate which have privat key" //   LEVEL=INFO FUNC=GetCertofRecipient
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp606 26 "%0CryptMsgUpdate Success-encode" //   LEVEL=INFO FUNC=ProcessPlaintextFile
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp594 25 "%0Final Data Block" //   LEVEL=INFO FUNC=ProcessPlaintextFile
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp456 24 "%0Decrypted Data Size:%10!d!" //   LEVEL=INFO FUNC=DecryptEnvelopeData
+{
+dwPlaintextDataLength, ItemLong -- 10
+}
+#typev  DataEncryption_cpp430 23 "%0<1 certificate stores, current stores number:%10!d!" //   LEVEL=ERR FUNC=DecryptEnvelopeData
+{
+(int)(vectorHCertStore.size()), ItemLong -- 10
+}
+#typev  DataEncryption_cpp422 22 "%0DecryptEnvelopeData-Invalidate parameters" //   LEVEL=ERR FUNC=DecryptEnvelopeData
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp137 15 "%0Release key trans data memory" //   LEVEL=INFO FUNC=RelaseCMSRecipientInfo
+{
+}
+#typev  DataEncryption_cpp130 14 "%0Release public key data memory" //   LEVEL=INFO FUNC=RelaseCMSRecipientInfo
+{
+}
+#typev  DataEncryption_cpp123 13 "%0Release Key Id Data memory" //   LEVEL=INFO FUNC=RelaseCMSRecipientInfo
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp1193 40 "%0ProcessEnvelopeFile result--CRYPT_E_ALREADY_DECRYPTED--reset to S_OK" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+}
+#typev  DataEncryption_cpp1184 39 "%0CryptMsgControl -- CRYPT_E_ALREADY_DECRYPTED" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+}
+#typev  DataEncryption_cpp1178 38 "%0CryptMsgControl" //   LEVEL=ERR FUNC=ProcessEnvelopeFile
+{
+}
+#typev  DataEncryption_cpp1148 37 "%0We found the quality certificate to do decryption" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+}
+#typev  DataEncryption_cpp1067 36 "%0We need more stream data" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+}
+#typev  DataEncryption_cpp1049 35 "%0CryptMsgUpdate Success -decode" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+}
+#typev  DataEncryption_cpp1037 34 "%0Final Data Block" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp1264 42 "%0<1 certificate store, current certificate store number:%10!d!" //   LEVEL=ERR FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+dwCertStoreCount, ItemLong -- 10
+}
+#typev  DataEncryption_cpp1255 41 "%0Invalidate parameters" //   LEVEL=ERR FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp226 17 "%0Key Id length:%10!d!" //   LEVEL=INFO FUNC=GetCMSRecipientsInfo
+{
+dwKeyIdLength, ItemLong -- 10
+}
+#typev  DataEncryption_cpp201 16 "%0Recipient Publicy Key Length:%10!d!" //   LEVEL=INFO FUNC=GetCMSRecipientsInfo
+{
+dwRecipientPublicKeyLength, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp728 32 "%0certificate index:%10!d!" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+i, ItemLong -- 10
+}
+#typev  DataEncryption_cpp715 31 "%0<1 certificate, current certificates number:%10!d!" //   LEVEL=ERR FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+dwCertificateCount, ItemLong -- 10
+}
+#typev  DataEncryption_cpp706 30 "%0Invalidate parameters" //   LEVEL=ERR FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+}
+#typev  DataEncryption_cpp693 29 "%0Unsupportted encryption algorithm:%10!s!" //   LEVEL=ERR FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pszContentEncryptionAlgorithmId, ItemString -- 10
+}
+#typev  DataEncryption_cpp685 28 "%0Selected Content encryption algorithm:%10!s!" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+szOID_RSA_DES_EDE3_CBC, ItemString -- 10
+}
+#typev  DataEncryption_cpp677 27 "%0Selected Content encryption algorithm:%10!s!" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+szOID_RSA_RC4, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp74 12 "%0Unsupportted encryption algorithm:%10!s!" //   LEVEL=ERR FUNC=GetEncryptionParameters
+{
+pszContentEncryptionAlgorithmId, ItemString -- 10
+}
+#typev  DataEncryption_cpp66 11 "%0Selected Content encryption algorithm:%10!s!" //   LEVEL=ERR FUNC=GetEncryptionParameters
+{
+szOID_RSA_DES_EDE3_CBC, ItemString -- 10
+}
+#typev  DataEncryption_cpp58 10 "%0Selected Content encryption algorithm:%10!s!" //   LEVEL=INFO FUNC=GetEncryptionParameters
+{
+szOID_RSA_RC4, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp345 21 "%0Enveloped Data Size:%10!d!" //   LEVEL=INFO FUNC=EncryptDatatoEnvelope
+{
+dwEnvelopedDataLength, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  DataEncryption_cpp318 20 "%0certificate index:%10!d!" //   LEVEL=INFO FUNC=EncryptDatatoEnvelope
+{
+i, ItemLong -- 10
+}
+#typev  DataEncryption_cpp305 19 "%0<1 certificate, current certificates number:%10!d!" //   LEVEL=ERR FUNC=EncryptDatatoEnvelope
+{
+(int)(vectorPCert.size()), ItemLong -- 10
+}
+#typev  DataEncryption_cpp297 18 "%0Invalidate parameters" //   LEVEL=ERR FUNC=EncryptDatatoEnvelope
+{
+}

@@ -1,0 +1,227 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+67b4f23c-a0ae-3d5d-74c4-d6e616465bea npCryptoKit // SRC=npMessageEncryption.cpp MJ= MN=
+#typev  npMessageEncryption_cpp877 54 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx_BySoftCert
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp875 53 "%0Convert string to npvariant Message: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx_BySoftCert
+{
+lpUTF8Message, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp863 52 "%0Envelope type:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx_BySoftCert
+{
+lpwUTF16EnvelopeType, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp862 51 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx_BySoftCert
+{
+lpwUTF16Envelope, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp861 50 "%0SMFileCertName:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx_BySoftCert
+{
+lpwUTF16SMFileCertName, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp774 49 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp772 48 "%0Convert string to npvariant Message: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx
+{
+lpUTF8Message, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp762 47 "%0Envelope type:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx
+{
+lpwUTF16EnvelopeType, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp761 46 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelopeEx
+{
+lpwUTF16Envelope, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp693 45 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx_ByCert
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp691 44 "%0Convert string to npvariant Envelope: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx_ByCert
+{
+lpUTF8Envelope, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp686 43 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx_ByCert
+{
+pbstrEnvelope, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp678 42 "%0Encrypt algorithm:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx_ByCert
+{
+lpwUTF16EncryptAlg, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp677 41 "%0Cert type:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx_ByCert
+{
+lpwUTF16CertType, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp676 40 "%0Cert content:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx_ByCert
+{
+lpwUTF16Base64CertContent, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp589 39 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp587 38 "%0Convert string to npvariant. Envelope: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx
+{
+lpUTF8Envelope, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp582 37 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelopeEx
+{
+pbstrEnvelope, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp509 36 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope_BySoftCert
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp507 35 "%0Convert string to npvariant Message: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope_BySoftCert
+{
+lpUTF8Message, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp495 34 "%0Envelope type:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope_BySoftCert
+{
+lpwUTF16EnvelopeType, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp494 33 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope_BySoftCert
+{
+lpwUTF16Envelope, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp493 32 "%0SMFileCertName:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope_BySoftCert
+{
+lpwUTF16SMFileCertName, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp406 31 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp404 30 "%0Convert string to npvariant Message: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope
+{
+lpUTF8Message, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp394 29 "%0Envelope type:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope
+{
+lpwUTF16EnvelopeType, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp393 28 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npDecryptMsgCMSEnvelope
+{
+lpwUTF16Envelope, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp325 27 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope_ByCert
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp323 26 "%0Convert string to npvariant Envelope: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope_ByCert
+{
+lpUTF8Envelope, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp318 25 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope_ByCert
+{
+pbstrEnvelope, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp310 24 "%0Encrypt algorithm:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope_ByCert
+{
+lpwUTF16EncryptAlg, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp309 23 "%0Cert type:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope_ByCert
+{
+lpwUTF16CertType, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp308 22 "%0Cert content:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope_ByCert
+{
+lpwUTF16Base64CertContent, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp221 21 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp219 20 "%0Convert string to npvariant. Envelope: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope
+{
+lpUTF8Envelope, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp214 19 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npEncryptMsgCMSEnvelope
+{
+pbstrEnvelope, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp147 18 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetEncryptCertInfo
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp145 17 "%0Convert string to npvariant. Info content: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetEncryptCertInfo
+{
+lpUTF8InfoContent, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp140 16 "%0Envelope:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npGetEncryptCertInfo
+{
+pbstrInfoContent, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp82 15 "%0ConvertCharToNPVariant returns: %10!d!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectEncryptCertificate
+{
+bResult, ItemLong -- 10
+}
+#typev  npMessageEncryption_cpp80 14 "%0Convert string to npvariant SubjectDN: %10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectEncryptCertificate
+{
+lpUTF8SubjectDN, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp75 13 "%0SubjectDN:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectEncryptCertificate
+{
+pbstrSubjectDN, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  npMessageEncryption_cpp68 12 "%0SerialNumFilter:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectEncryptCertificate
+{
+lpwUTF16SerialNumFilter, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp67 11 "%0IssuerDNFilter:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectEncryptCertificate
+{
+lpwUTF16IssuerDNFilter, ItemWString -- 10
+}
+#typev  npMessageEncryption_cpp66 10 "%0SubjectDNFilter:%10!s!" //   LEVEL=INFO FUNC=CScriptablePluginObject::npSelectEncryptCertificate
+{
+lpwUTF16SubjectDNFilter, ItemWString -- 10
+}

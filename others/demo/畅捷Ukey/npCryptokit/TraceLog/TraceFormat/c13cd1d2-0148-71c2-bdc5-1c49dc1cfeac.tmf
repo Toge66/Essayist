@@ -1,0 +1,360 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+c13cd1d2-0148-71c2-bdc5-1c49dc1cfeac npCryptoKit // SRC=MessageEncryption.cpp MJ= MN=
+#typev  MessageEncryption_cpp328 30 "%0Cert issuer DN: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp318 29 "%0Cert Type: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp313 28 "%0Cert Type: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp298 27 "%0CSP provider name:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+(char*) lpbyProviderName, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp282 26 "%0CSP provider name:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp274 25 "%0Serial number: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp263 24 "%0Cert subject CN: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp243 23 "%0Cert subject DN: %10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+lpwCertInfo, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp231 22 "%0info type:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+bstrInfoType, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1505 82 "%0ENC_TYPE_SM2CIPHER" //   LEVEL=INFO FUNC=DecryptSessionKeyByUnregisteredCertContext
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1497 81 "%0ENC_TYPE_C1C2C3" //   LEVEL=INFO FUNC=DecryptSessionKeyByUnregisteredCertContext
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1363 79 "%0Message decryption by RSA." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope_BySoftCert
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1344 78 "%0Message decryption by SM2." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope_BySoftCert
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp993 66 "%0pbyBase64CMSEnvelope :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+(char*)pbyBase64CMSEnvelope, ItemString -- 10
+}
+#typev  MessageEncryption_cpp992 65 "%0dwBase64CMSEnvelope :%10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+dwBase64CMSEnvelope, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp971 64 "%03DES Algorithm" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+}
+#typev  MessageEncryption_cpp965 63 "%0RC4 Algorithm" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp956 62 "%0Message encryption by RSA." //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp939 61 "%0Message encryption by SM2." //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+}
+#typev  MessageEncryption_cpp934 60 "%0bIsSM2EncryptCert: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+bIsSM2EncryptCert, ItemLong -- 10
+}
+#typev  MessageEncryption_cpp933 59 "%0encryption algorithm by RSA: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+lpwEncryptAlg, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp932 58 "%0dwUTF8SourceMessageLen: [%10!d!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+dwUTF8SourceMessageLen, ItemLong -- 10
+}
+#typev  MessageEncryption_cpp931 57 "%0pbyUTF8SourceMessage: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+(char*)pbyUTF8SourceMessage, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp845 56 "%0CMS envelop type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelopeEx_BySoftCert
+{
+bstrEnvelopeType, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp844 55 "%0CMS envelop: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelopeEx_BySoftCert
+{
+bstrEnvelope, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp843 54 "%0SoftCertFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelopeEx_BySoftCert
+{
+bstrSoftCertFileName, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp660 47 "%0dwUTF8SourceMessageLen :%10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelopeEx
+{
+dwUTF8SourceMessageLen, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp649 46 "%0m_bIsSM2EncryptCert: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelopeEx
+{
+m_bIsSM2EncryptCert, ItemLong -- 10
+}
+#typev  MessageEncryption_cpp648 45 "%0encryption algorithm by RSA: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelopeEx
+{
+bstrEncryptAlg, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp647 44 "%0Source message: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelopeEx
+{
+bstrMessage, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp565 43 "%0CMS envelop type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope_BySoftCert
+{
+bstrEnvelopeType, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp564 42 "%0CMS envelop: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope_BySoftCert
+{
+bstrEnvelope, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp563 41 "%0SoftCertFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope_BySoftCert
+{
+bstrSoftCertFileName, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp380 34 "%0dwUTF8SourceMessageLen :%10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+dwUTF8SourceMessageLen, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp369 33 "%0m_bIsSM2EncryptCert: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+m_bIsSM2EncryptCert, ItemLong -- 10
+}
+#typev  MessageEncryption_cpp368 32 "%0encryption algorithm by RSA: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+bstrEncryptAlg, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp367 31 "%0Source message: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope
+{
+bstrMessage, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1451 80 "%0SM2 available cert count: %10!d!" //   LEVEL=INFO FUNC=GetRecipientUnregisteredCertificates
+{
+vtrCertificateSet.size(), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1253 77 "%0Message decryption by RSA." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1235 76 "%0DecryptSessionKeyByUnregisteredCertContext result:0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+hResult, ItemLong -- 10
+}
+#typev  MessageEncryption_cpp1223 75 "%0CertDuplicateUnregisteredCertContext: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+hResult, ItemLong -- 10
+}
+#typev  MessageEncryption_cpp1217 74 "%0Dercrypt session key." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+}
+#typev  MessageEncryption_cpp1212 73 "%0vtrSM2CertificateSet.size:%10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+(int)vtrSM2CertificateSet.size(), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1187 72 "%0Message decryption by SM2." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+}
+#typev  MessageEncryption_cpp1183 71 "%0ANS.1 encoded CMS envelope size = %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+dwEvelopeDataSize, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1079 70 "%03DES Algorithm" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope_ByCert
+{
+}
+#typev  MessageEncryption_cpp1073 69 "%0RC4 Algorithm" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope_ByCert
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1064 68 "%0Message encryption by RSA." //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope_ByCert
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp1049 67 "%0Message encryption by SM2." //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope_ByCert
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp781 53 "%0CMS envelop type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelopeEx
+{
+bstrEnvelopeType, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp780 52 "%0CMS envelop: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelopeEx
+{
+bstrEnvelope, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp717 51 "%0encryption algorithm by RSA: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelopeEx_ByCert
+{
+bstrEncryptAlg, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp716 50 "%0Source message: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelopeEx_ByCert
+{
+bstrMessage, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp715 49 "%0Base64 certificate type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelopeEx_ByCert
+{
+bstrCertType, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp714 48 "%0Base64 certificate content: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelopeEx_ByCert
+{
+bstrBase64CertContent, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp500 40 "%0CMS envelop type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+bstrEnvelopeType, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp499 39 "%0CMS envelop: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptMsgCMSEnvelope
+{
+bstrEnvelope, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp436 38 "%0encryption algorithm by RSA: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope_ByCert
+{
+bstrEncryptAlg, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp435 37 "%0Source message: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope_ByCert
+{
+bstrMessage, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp434 36 "%0Base64 certificate type: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope_ByCert
+{
+bstrCertType, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp433 35 "%0Base64 certificate content: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptMsgCMSEnvelope_ByCert
+{
+bstrBase64CertContent, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp151 21 "%0certificate subject DN:%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+lpwCertDN, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp138 20 "%0CustomCryptUIDlgSelectCertificate hResult: 0x%10!08x!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+(UINT)hResult, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp125 19 "%0Available certificate count: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+(int)vtrCertificateSet.size(), ItemLong -- 10
+}
+#typev  MessageEncryption_cpp111 18 "%0Available SM2 certificate count: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+(int)vtrUnRegisteredCertSet.size(), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp102 17 "%0Available RSA certificate count: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+(int)vtrCertificateSet.size(), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp90 16 "%0ADDRESSBOOK store available RSA certificate count: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+(int)vtrOthersStoreCertSet.size(), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp84 15 "%0My store available RSA certificate count: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+(int)vtrCertificateSet.size(), ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp74 14 "%0lppBinaryData: 0x%10!x!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+(unsigned long)lppSerialNumBinaryData, ItemLong -- 10
+}
+#typev  MessageEncryption_cpp73 13 "%0dwBinaryDataLen: %10!ld!" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+dwSerialNumBinaryDataLen, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  MessageEncryption_cpp58 12 "%0Serial num: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+bstrSerialNumFilter, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp57 11 "%0Issuer filter: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+bstrIssuerDNFilter, ItemWString -- 10
+}
+#typev  MessageEncryption_cpp56 10 "%0Subject filter: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SelectEncryptCertificate
+{
+bstrSubjectDNFilter, ItemWString -- 10
+}

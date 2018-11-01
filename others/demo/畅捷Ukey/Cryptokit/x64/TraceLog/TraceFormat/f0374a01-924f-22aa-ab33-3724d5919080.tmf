@@ -1,0 +1,17 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+f0374a01-924f-22aa-ab33-3724d5919080 CryptoKit // SRC=dllmain.cpp MJ= MN=
+#typev  dllmain_cpp32 13 "%0PROCESS DETACH" //   LEVEL=INFO FUNC=DllMain
+{
+}
+#typev  dllmain_cpp22 10 "%0PROCESS ATTACH" //   LEVEL=INFO FUNC=DllMain
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  dllmain_cpp25 11 "%0THREAD ATTACH" //   LEVEL=INFO FUNC=DllMain
+{
+}
+#typev  dllmain_cpp28 12 "%0THREAD DETACH" //   LEVEL=INFO FUNC=DllMain
+{
+}

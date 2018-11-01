@@ -1,0 +1,11 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+93a53ced-fe86-275e-1fb0-3df6031a691f NPAPIKernel // SRC=NPAPIUtility.cpp MJ= MN=
+#typev  NPAPIUtility_cpp37 11 "%0NPString UTF8:%10!s!" //   LEVEL=INFO FUNC=ConverNPStringtoNULLEndString
+{
+pNULLEndString, ItemString -- 10
+}
+#typev  NPAPIUtility_cpp26 10 "%0NPString Length:%10!d!" //   LEVEL=INFO FUNC=ConverNPStringtoNULLEndString
+{
+unUTF8Length, ItemLong -- 10
+}

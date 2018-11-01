@@ -1,0 +1,287 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+dd219b7c-b85d-026e-9500-048740246b52 CryptoKernel // SRC=CertificateOperations.cpp MJ= MN=
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=GetCMSRecipientsInfo
+{
+lDataID, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1289 54 "%0Delete SecSubKey name: (%10!s!)" //   LEVEL=INFO FUNC=DeleteRegistryKey
+{
+lpSecSubKey, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1280 53 "%0Open SubKey name: (%10!s!)" //   LEVEL=INFO FUNC=DeleteRegistryKey
+{
+lpSubKey, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1236 52 "%0create SecSubKey name: (%10!s!)" //   LEVEL=INFO FUNC=RegWriteBinaryValue
+{
+lpSecSubKey, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1227 51 "%0open SubKey name: (%10!s!)" //   LEVEL=INFO FUNC=RegWriteBinaryValue
+{
+lpSubKey, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp958 41 "%0The certificate is time valid." //   LEVEL=WARNING FUNC=CheckCertTimeValidity
+{
+}
+#typev  CertificateOperations_cpp954 40 "%0The certificate is time invalid." //   LEVEL=WARNING FUNC=CheckCertTimeValidity
+{
+}
+#typev  CertificateOperations_cpp948 39 "%0TimeToVerify:%10!02d!/%11!02d!/%12!d!  %13!02d!:%14!02d!:%15!02d!" //   LEVEL=INFO FUNC=CheckCertTimeValidity
+{
+stSystemTime.wYear, ItemLong -- 10
+stSystemTime.wMonth, ItemLong -- 11
+stSystemTime.wDay, ItemLong -- 12
+stSystemTime.wHour, ItemLong -- 13
+stSystemTime.wMinute, ItemLong -- 14
+stSystemTime.wSecond, ItemLong -- 15
+}
+#typev  CertificateOperations_cpp929 38 "%0The signature algorithm matches." //   LEVEL=INFO FUNC=CheckCertSignatureAlg
+{
+}
+#typev  CertificateOperations_cpp924 37 "%0The signature algorithm does not match." //   LEVEL=WARNING FUNC=CheckCertSignatureAlg
+{
+}
+#typev  CertificateOperations_cpp920 36 "%0Destination signature algorithm:%10!s!" //   LEVEL=INFO FUNC=CheckCertSignatureAlg
+{
+lpSignatureAlg, ItemString -- 10
+}
+#typev  CertificateOperations_cpp919 35 "%0Certificate signature algorithm:%10!s!" //   LEVEL=INFO FUNC=CheckCertSignatureAlg
+{
+pstCertContext->pCertInfo->SignatureAlgorithm.pszObjId, ItemString -- 10
+}
+#typev  CertificateOperations_cpp915 34 "%0Wild signature algorithm matches." //   LEVEL=INFO FUNC=CheckCertSignatureAlg
+{
+}
+#typev  CertificateOperations_cpp441 17 "%0Decoded data length: %10!u!" //   LEVEL=INFO FUNC=GetCertSubjectKeyID
+{
+dwDecodedDataLen, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp415 16 "%0There is no extend attribute in this certificate. Error: %10!u!" //   LEVEL=WARNING FUNC=GetCertSubjectKeyID
+{
+::GetLastError(), ItemLong -- 10
+}
+#typev  CertificateOperations_cpp345 15 "%0Certificate key usage: %10!u!" //   LEVEL=INFO FUNC=GetCertKeyUsage
+{
+*pdwCertKeyUsage, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp318 14 "%0Decoded data length: %10!u!" //   LEVEL=INFO FUNC=GetCertKeyUsage
+{
+dwDecodedDataLen, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp298 13 "%0There is no extend attribute in this certificate. Error: %10!u!" //   LEVEL=WARNING FUNC=GetCertKeyUsage
+{
+::GetLastError(), ItemLong -- 10
+}
+#typev  CertificateOperations_cpp262 12 "%0Certificate issuer: %10!s!" //   LEVEL=INFO FUNC=GetCertIssuer
+{
+*lppIssuer, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp203 11 "%0Certificate subject: %10!s!" //   LEVEL=INFO FUNC=GetCertSubject
+{
+*lppSubject, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp117 10 "%0Certificate CN: %10!s!" //   LEVEL=INFO FUNC=GetCertCN
+{
+pszCN, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=QueryCertContextInfo
+{
+lDataID, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp894 33 "%0Serial number matches." //   LEVEL=INFO FUNC=CheckCertSerialNumber
+{
+}
+#typev  CertificateOperations_cpp889 32 "%0Serial number does not match." //   LEVEL=WARNING FUNC=CheckCertSerialNumber
+{
+}
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=CheckCertSerialNumber
+{
+lDataID, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp875 31 "%0Wild serial number matches." //   LEVEL=INFO FUNC=CheckCertSerialNumber
+{
+}
+#typev  CertificateOperations_cpp851 30 "%0Subject key ID matches." //   LEVEL=INFO FUNC=CheckCertSubjectKeyID
+{
+}
+#typev  CertificateOperations_cpp846 29 "%0Subject key ID does not match." //   LEVEL=WARNING FUNC=CheckCertSubjectKeyID
+{
+}
+#typev  CertificateOperations_cpp833 28 "%0Wild subject key ID matches." //   LEVEL=INFO FUNC=CheckCertSubjectKeyID
+{
+}
+#typev  CertificateOperations_cpp811 27 "%0Key usage does not match." //   LEVEL=WARNING FUNC=CheckCertKeyUsage
+{
+}
+#typev  CertificateOperations_cpp806 26 "%0Certificate key usage:[0x%10!x!]" //   LEVEL=INFO FUNC=CheckCertKeyUsage
+{
+dwCertKeyUsage, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp795 25 "%0Wild key usage matches." //   LEVEL=INFO FUNC=CheckCertKeyUsage
+{
+}
+#typev  CertificateOperations_cpp791 24 "%0Key usage to check:[0x%10!x!]" //   LEVEL=INFO FUNC=CheckCertKeyUsage
+{
+dwKeyUsage, ItemLong -- 10
+}
+#typev  CertificateOperations_cpp1020 43 "%0CSP [%10!s!] matches." //   LEVEL=INFO FUNC=CheckCSPName
+{
+pstProvInfo->pwszProvName, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1030 44 "%0CSP [%10!s!] doesn't match." //   LEVEL=INFO FUNC=CheckCSPName
+{
+pstProvInfo->pwszProvName, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1011 42 "%0CSPName:[%10!s!]" //   LEVEL=INFO FUNC=CheckCSPName
+{
+pstProvInfo->pwszProvName, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp748 22 "%0Certificate issuer [%10!s!] matches." //   LEVEL=INFO FUNC=CheckCertIssuer
+{
+lpIssuer, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp758 23 "%0Certificate Issuer DN [%10!s!] doesn't match." //   LEVEL=INFO FUNC=CheckCertIssuer
+{
+lpIssuer, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp740 21 "%0Certificate issuer:[%10!s!]" //   LEVEL=INFO FUNC=CheckCertIssuer
+{
+lpIssuer, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp700 19 "%0Certificate subject [%10!s!] matches." //   LEVEL=INFO FUNC=CheckCertSubjectName
+{
+lpSubject, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp710 20 "%0Certificate subject DN [%10!s!] doesn't match." //   LEVEL=INFO FUNC=CheckCertSubjectName
+{
+lpSubject, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp692 18 "%0Certificate subject:[%10!s!]" //   LEVEL=INFO FUNC=CheckCertSubjectName
+{
+lpSubject, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1480 60 "%0Insert certificate." //   LEVEL=INFO FUNC=ExtractCertificatesFromStore
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1471 59 "%0Duplicate certificate." //   LEVEL=INFO FUNC=ExtractCertificatesFromStore
+{
+}
+#typev  CertificateOperations_cpp1465 58 "%0Invalid parameter." //   LEVEL=INFO FUNC=ExtractCertificatesFromStore
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1513 61 "%0Invalid parameter." //   LEVEL=INFO FUNC=ExtractCertificatesFromLocalStore
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1441 57 "%0Parsed filter: %10!s!" //   LEVEL=INFO FUNC=ParseFilters
+{
+wszScanBuffer, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1651 73 "%0Insert certificate." //   LEVEL=INFO FUNC=FilterCertificates
+{
+}
+#typev  CertificateOperations_cpp1642 72 "%0Duplicate certificate." //   LEVEL=INFO FUNC=FilterCertificates
+{
+}
+#typev  CertificateOperations_cpp1655 74 "%0-----End Check!-----" //   LEVEL=INFO FUNC=FilterCertificates
+{
+}
+#typev  CertificateOperations_cpp1623 71 "%0Certificate doesn't contain private key." //   LEVEL=INFO FUNC=FilterCertificates
+{
+}
+#typev  CertificateOperations_cpp1618 70 "%0Certificate contains private key." //   LEVEL=INFO FUNC=FilterCertificates
+{
+}
+#typev  CertificateOperations_cpp1608 69 "%0Invoke CryptAcquireCertificatePrivateKey" //   LEVEL=INFO FUNC=FilterCertificates
+{
+}
+#typev  CertificateOperations_cpp1607 68 "%0Verify whether certificate contains private key." //   LEVEL=INFO FUNC=FilterCertificates
+{
+}
+#typev  CertificateOperations_cpp1592 67 "%0-----Begin Check!-----" //   LEVEL=INFO FUNC=FilterCertificates
+{
+}
+#typev  CertificateOperations_cpp1586 66 "%0Specified CSP List:[%10!s!]" //   LEVEL=INFO FUNC=FilterCertificates
+{
+pstCertFilter->CSPList, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1583 65 "%0Issuer DN filter:[%10!s!]" //   LEVEL=INFO FUNC=FilterCertificates
+{
+pstCertFilter->Issuer, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1579 64 "%0Subject DN filter:[%10!s!]" //   LEVEL=INFO FUNC=FilterCertificates
+{
+pstCertFilter->Subject, ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1576 63 "%0Has private key filter: %10!s!" //   LEVEL=INFO FUNC=FilterCertificates
+{
+(pstCertFilter->HasPrivateKey == TRUE) ? L'TRUE' : L'FALSE', ItemWString -- 10
+}
+#typev  CertificateOperations_cpp1575 62 "%0Key usage filter: 0x%10!x!" //   LEVEL=INFO FUNC=FilterCertificates
+{
+pstCertFilter->KeyUsage, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp1915 100 "%0FilterCertificates" //   LEVEL=INFO FUNC=FilterCertificatesfromLocalStore
+{
+}
+#typev  CertificateOperations_cpp1908 99 "%0ExtractCertificatesFromLocalStore" //   LEVEL=INFO FUNC=FilterCertificatesfromLocalStore
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::GetEncryptCertInfo
+{
+lDataID, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+lDataID, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+lDataID, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+lDataID, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+lDataID, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+lDataID, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  CertificateOperations_cpp2164 107 "%0Query ID: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::GetSignCertInfo
+{
+lDataID, ItemLong -- 10
+}

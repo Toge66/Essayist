@@ -1,0 +1,182 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+5dc81e65-f381-ffb8-693a-113456f78a63 CryptoKit // SRC=FileEncryption.cpp MJ= MN=
+#typev  FileEncryption_cpp1003 57 "%0DecryptSessionKeyByUnregisteredCertContext result:0x%10!08x!" //   LEVEL=INFO FUNC=DecryptSM2EnvelopeFiletoPlaintextFile
+{
+hResult, ItemLong -- 10
+}
+#typev  FileEncryption_cpp991 56 "%0CertDuplicateUnregisteredCertContext: 0x%10!08x!" //   LEVEL=INFO FUNC=DecryptSM2EnvelopeFiletoPlaintextFile
+{
+hResult, ItemLong -- 10
+}
+#typev  FileEncryption_cpp985 55 "%0Dercrypt session key." //   LEVEL=INFO FUNC=DecryptSM2EnvelopeFiletoPlaintextFile
+{
+}
+#typev  FileEncryption_cpp980 54 "%0vtrSM2CertificateSet.size:%10!d!" //   LEVEL=INFO FUNC=DecryptSM2EnvelopeFiletoPlaintextFile
+{
+(int)vtrSM2CertificateSet.size(), ItemLong -- 10
+}
+#typev  FileEncryption_cpp550 45 "%03DES Algorithm" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope
+{
+}
+#typev  FileEncryption_cpp545 44 "%0RC4 Algorithm" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope
+{
+}
+#typev  FileEncryption_cpp531 43 "%0It's a RSA encrypt certificate." //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope
+{
+}
+#typev  FileEncryption_cpp507 42 "%0It's a SM2 encrypt certificate." //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope
+{
+}
+#typev  FileEncryption_cpp681 49 "%03DES Algorithm" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+}
+#typev  FileEncryption_cpp676 48 "%0RC4 Algorithm" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+}
+#typev  FileEncryption_cpp657 47 "%0RSA encrypt certificate." //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+}
+#typev  FileEncryption_cpp633 46 "%0SM2 encrypt certificate." //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+}
+#typev  FileEncryption_cpp749 51 "%0RSA envelope." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope
+{
+}
+#typev  FileEncryption_cpp739 50 "%0SM2 envelope." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope
+{
+}
+#typev  FileEncryption_cpp848 53 "%0RSA envelope." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope_BySoftCert
+{
+}
+#typev  FileEncryption_cpp812 52 "%0SM2 envelope." //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope_BySoftCert
+{
+}
+#typev  FileEncryption_cpp32 13 "%0m_bIsSM2EncryptedCert: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope
+{
+m_bIsSM2EncryptCert, ItemLong -- 10
+}
+#typev  FileEncryption_cpp31 12 "%0bstrEncryptedFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope
+{
+bstrEncryptedFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp30 11 "%0bstrEncryptAlg :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope
+{
+bstrEncryptAlg, ItemWString -- 10
+}
+#typev  FileEncryption_cpp29 10 "%0bstrSourceFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp89 18 "%0bstrEncryptedFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+bstrEncryptedFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp88 17 "%0bstrEncryptAlg :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+bstrEncryptAlg, ItemWString -- 10
+}
+#typev  FileEncryption_cpp87 16 "%0bstrSourceFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp86 15 "%0bstrCertType :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+bstrCertType, ItemWString -- 10
+}
+#typev  FileEncryption_cpp85 14 "%0bstrBase64CertContent :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelope_ByCert
+{
+bstrBase64CertContent, ItemWString -- 10
+}
+#typev  FileEncryption_cpp148 21 "%0bstrPlainTextFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope
+{
+bstrPlainTextFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp147 20 "%0bstrEnvelopeType :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope
+{
+bstrEnvelopeType, ItemWString -- 10
+}
+#typev  FileEncryption_cpp146 19 "%0bstrEncryptedFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope
+{
+bstrEncryptedFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp200 25 "%0bstrPlainTextFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope_BySoftCert
+{
+bstrPlainTextFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp199 24 "%0bstrEnvelopeType :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope_BySoftCert
+{
+bstrEnvelopeType, ItemWString -- 10
+}
+#typev  FileEncryption_cpp198 23 "%0bstrEncryptedFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope_BySoftCert
+{
+bstrEncryptedFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp197 22 "%0bstrSoftCertFileName :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelope_BySoftCert
+{
+bstrSoftCertFileName, ItemWString -- 10
+}
+#typev  FileEncryption_cpp266 29 "%0m_bIsSM2EncryptedCert: %10!d!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx
+{
+m_bIsSM2EncryptCert, ItemLong -- 10
+}
+#typev  FileEncryption_cpp265 28 "%0bstrEncryptedFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx
+{
+bstrEncryptedFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp264 27 "%0bstrEncryptAlg :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx
+{
+bstrEncryptAlg, ItemWString -- 10
+}
+#typev  FileEncryption_cpp263 26 "%0bstrSourceFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp323 34 "%0bstrEncryptedFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx_ByCert
+{
+bstrEncryptedFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp322 33 "%0bstrEncryptAlg :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx_ByCert
+{
+bstrEncryptAlg, ItemWString -- 10
+}
+#typev  FileEncryption_cpp321 32 "%0bstrSourceFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx_ByCert
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp320 31 "%0bstrCertType :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx_ByCert
+{
+bstrCertType, ItemWString -- 10
+}
+#typev  FileEncryption_cpp319 30 "%0bstrBase64CertContent :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::EncryptFileCMSEnvelopeEx_ByCert
+{
+bstrBase64CertContent, ItemWString -- 10
+}
+#typev  FileEncryption_cpp382 37 "%0bstrPlainTextFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelopeEx
+{
+bstrPlainTextFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp381 36 "%0bstrEnvelopeType :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelopeEx
+{
+bstrEnvelopeType, ItemWString -- 10
+}
+#typev  FileEncryption_cpp380 35 "%0bstrEncryptedFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelopeEx
+{
+bstrEncryptedFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp434 41 "%0bstrPlainTextFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelopeEx_BySoftCert
+{
+bstrPlainTextFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp433 40 "%0bstrEnvelopeType :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelopeEx_BySoftCert
+{
+bstrEnvelopeType, ItemWString -- 10
+}
+#typev  FileEncryption_cpp432 39 "%0bstrEncryptedFile :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelopeEx_BySoftCert
+{
+bstrEncryptedFile, ItemWString -- 10
+}
+#typev  FileEncryption_cpp431 38 "%0bstrSoftCertFileName :%10!s!" //   LEVEL=INFO FUNC=CCryptoAgent::DecryptFileCMSEnvelopeEx_BySoftCert
+{
+bstrSoftCertFileName, ItemWString -- 10
+}

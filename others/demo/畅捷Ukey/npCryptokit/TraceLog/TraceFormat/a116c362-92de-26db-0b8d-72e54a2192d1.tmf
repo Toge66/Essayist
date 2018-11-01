@@ -1,0 +1,27 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+a116c362-92de-26db-0b8d-72e54a2192d1 CryptoUIKernel // SRC=CertificateDialogs.cpp MJ= MN=
+#typev  CertificateDialogs_cpp43 11 "%0Error: %10!d!" //   LEVEL=INFO FUNC=RunSelectCertificateDialog
+{
+dwErrorCode, ItemLong -- 10
+}
+#typev  CertificateDialogs_cpp39 10 "%0DoModal return: %10!d!" //   LEVEL=INFO FUNC=RunSelectCertificateDialog
+{
+nRet, ItemLong -- 10
+}
+#typev  CertificateDialogs_cpp80 15 "%0Found the active window:0x%10!08x!" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificateFromStore
+{
+(UINT)hActiveWindow, ItemLong -- 10
+}
+#typev  CertificateDialogs_cpp73 14 "%0Display string: %10!s!" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificateFromStore
+{
+pwszDisplayString, ItemWString -- 10
+}
+#typev  CertificateDialogs_cpp72 13 "%0Title: %10!s!" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificateFromStore
+{
+pwszTitle, ItemWString -- 10
+}
+#typev  CertificateDialogs_cpp71 12 "%0Certificate store: 0x%10!08x!" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificateFromStore
+{
+(UINT)hCertStore, ItemLong -- 10
+}

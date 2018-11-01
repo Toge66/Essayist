@@ -1,0 +1,4497 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+44a437e9-b8c9-fcad-152c-b76515d28b58 CryptoKernel // SRC=tracehelper.cpp MJ= MN=
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnPaint
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnPaint
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::AdjustWindowSize
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::AdjustWindowSize
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnCancel
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnCancel
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnOK
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::OnOK
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::OnOK
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnOK
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnDestroy
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnDestroy
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::~CSelectCertificateDlg
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::~CSelectCertificateDlg
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::LoadCertificates
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::LoadCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::CSelectCertificateDlg
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::CSelectCertificateDlg
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnInitDialog
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CSelectCertificateDlg::OnInitDialog
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CSelectCertificateDlg::OnInitDialog
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetNodeValue
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetNodeValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetNodeValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetNodeValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetNodeValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetNodeValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetNodeValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetNodeValue
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=FindChildNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FindChildNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=FindChildNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetXMLRootNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetXMLRootNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetXMLRootNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetXMLRootNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetXMLRootNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetXMLRootNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetXMLRootNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetXMLRootNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ImportP7bCertificatestoStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportP7bCertificatestoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportP7bCertificatestoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportP7bCertificatestoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportP7bCertificatestoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportP7bCertificatestoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ImportP7bCertificatestoStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=LoadXMLDom
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadXMLDom
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=LoadXMLDom
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=WriteCertificatetoRegistry
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=WriteCertificatetoRegistry
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=WriteCertificatetoRegistry
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=WriteCertificatetoRegistry
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=WriteCertificatetoRegistry
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=WriteCertificatetoRegistry
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=WriteCertificatetoRegistry
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=WriteCertificatetoRegistry
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetRegisteredCertificateInfoNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetRegisteredCertificateInfoNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetRegisteredCertificateInfoNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseCertificateNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseCertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseCertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseCertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseCertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseCertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseCertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseCertificateNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=AddCACertficatetoStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=AddCACertficatetoStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=AddCACertficatetoStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=AddCACertficatetoStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=AddCACertficatetoStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseP7bContentNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseP7bContentNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseP7bContentNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseRootCACertificateNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ParseRootCACertificateNode
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseRootCACertificateNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ImportCertChainfromXMLDOMDoc
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertChainfromXMLDOMDoc
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ImportCertChainfromXMLDOMDoc
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetAllCSPName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetAllCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetAllCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetAllCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetAllCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetAllCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetAllCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetAllCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetAllCSPName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ImportCertificateChainfromBlobData
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertificateChainfromBlobData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertificateChainfromBlobData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertificateChainfromBlobData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertificateChainfromBlobData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ImportCertificateChainfromBlobData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ImportCertificateChainfromResoure
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertificateChainfromResoure
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertificateChainfromResoure
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ImportCertificateChainfromResoure
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ImportCertificateChainfromResoure
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ImportCertificateChainfromResoure
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetAESProviderName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetAESProviderName
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetAESProviderName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetAESProviderName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetAESProviderName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetAESProviderName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ReadFileSimple
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ReadFileSimple
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ReadFileSimple
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ReadFileSimple
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ReadFileSimple
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ReadFileSimple
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ConvertStringToBinaryData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ConvertStringToBinaryData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ConvertStringToBinaryData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ConvertStringToBinaryData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ConvertBinaryDataToString
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ConvertBinaryDataToString
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ConvertBinaryDataToString
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CryptAcquireContextbyAlgorithm
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CryptAcquireContextbyAlgorithm
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CryptAcquireContextbyAlgorithm
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CryptAcquireContextbyAlgorithm
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CryptAcquireContextbyAlgorithm
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CryptAcquireContextbyAlgorithm
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SplitStrings
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SplitStrings
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=TraceHRESULT
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=TraceHRESULT
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=TraceHelper::~TraceHelper
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=TraceHelper::`scalar deleting destructor'
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=TraceHelper::TraceHelper
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CCertificateList::OnLButtonDblClk
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CCertificateList::OnLButtonDblClk
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CCertificateList::OnMouseLeave
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CCertificateList::OnMouseLeave
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CCertificateList::ProcessWindowMessage
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CCertificateList::ProcessWindowMessage
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CCertificateList::Initialize
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CCertificateList::Initialize
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CCertificateList::Initialize
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CCertificateList::Initialize
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CCertificateList::Initialize
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CCertificateList::Initialize
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CCertificateList::Initialize
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CCertificateList::Initialize
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=RunSelectCertificateDialog
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=RunSelectCertificateDialog
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=RunSelectCertificateDialog
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=RunSelectCertificateDialog
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=RunSelectCertificateDialog
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=RunSelectCertificateDialog
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CustomCryptUIDlgSelectCertificateFromStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CustomCryptUIDlgSelectCertificateFromStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CustomCryptUIDlgSelectCertificate
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CustomCryptUIDlgSelectCertificate
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CustomCryptUIDlgSelectCertificate
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertofRecipient
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertofRecipient
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertofRecipient
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertofRecipient
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ProcessPlaintextFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ProcessPlaintextFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CmsgStreamOutputCallback
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CmsgStreamOutputCallback
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CmsgStreamOutputCallback
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DecryptEnvelopeData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DecryptEnvelopeData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DecryptEnvelopeData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DecryptEnvelopeData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DecryptEnvelopeData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DecryptEnvelopeData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=RelaseCMSRecipientInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=RelaseCMSRecipientInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ProcessEnvelopeFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ProcessEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ProcessEnvelopeFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DecryptEnvelopeFiletoPlaintextFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCMSRecipientsInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCMSRecipientsInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCMSRecipientsInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCMSRecipientsInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCMSRecipientsInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCMSRecipientsInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCMSRecipientsInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCMSRecipientsInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCMSRecipientsInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=EncryptPlaintextFiletoEnvelopeFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetEncryptionParameters
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetEncryptionParameters
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetEncryptionParameters
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetEncryptionParameters
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=EncryptDatatoEnvelope
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncryptDatatoEnvelope
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=EncryptDatatoEnvelope
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateASNValueLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateASNValueLength
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateASNValueLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateASNValueLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ASN1Encode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ASN1Encode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ASN1Encode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ASN1Encode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=Base64DecodeEx
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=Base64DecodeEx
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=Base64DecodeEx
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=Base64EncodeEx
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=Base64EncodeEx
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=Base64EncodeEx
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckFileAvailability
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CheckFileAvailability
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckFileAvailability
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CheckFileAvailability
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckFileAvailability
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckFileAvailability
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=IsMaliciousFileExtention
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=IsMaliciousFileExtention
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=IsMaliciousFileFolder
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=IsMaliciousFileFolder
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=IsMaliciousFileFolder
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=IsMaliciousFileFolder
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=IsMaliciousFilePathName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=IsMaliciousFilePathName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=IsMaliciousFilePathName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=IsMaliciousFilePathName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=IsMaliciousFilePathName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=IsMaliciousFilePathName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=IsMaliciousFilePathName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=IsMaliciousFilePathName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=IsMaliciousFilePathName
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CertFreeUnregisteredCertContext
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CertFreeUnregisteredCertContext
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CertCreateUnregisteredCertContext
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CertCreateUnregisteredCertContext
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CertCreateUnregisteredCertContext
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetUnregisteredCertfromContainer
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetUnregisteredCertfromContainer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetUnregisteredCertfromContainer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetUnregisteredCertfromContainer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetUnregisteredCertfromContainer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetUnregisteredCertfromContainer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetUnregisteredCertfromContainer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetUnregisteredCertfromContainer
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=RemoveAllUnregisteredCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=RemoveAllUnregisteredCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CertDuplicateUnregisteredCertContext
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CertDuplicateUnregisteredCertContext
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckUnregisteredCertficate
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckUnregisteredCertficate
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterUnregisteredCertificatesfromCSP
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FilterUnregisteredCertificatesfromCSP
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterUnregisteredCertificatesfromCSP
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=_LoadImageFromData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=_LoadImageFromData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=_LoadImageFromData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=LoadImageFromResource
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadImageFromResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=LoadImageFromResource
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=PrintNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=PrintNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetInfiniteLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetInfiniteLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetInfiniteLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetInfiniteLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetASN1ValueLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetASN1ValueLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetASN1ValueLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetASN1ValueLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetASN1ValueLength
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseASN1TLV
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseASN1TLV
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseASN1TLV
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseASN1TLV
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseASN1TLV
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseNode
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DecodeASN1Memory
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DecodeASN1Memory
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteRegistryKey
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteRegistryKey
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteRegistryKey
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteRegistryKey
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteRegistryKey
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteRegistryKey
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=RegWriteBinaryValue
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=RegWriteBinaryValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=RegWriteBinaryValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=RegWriteBinaryValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=RegWriteBinaryValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=RegWriteBinaryValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=RegWriteBinaryValue
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=RegWriteBinaryValue
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=LoadModuleResource
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadModuleResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadModuleResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadModuleResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadModuleResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadModuleResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=LoadModuleResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=LoadModuleResource
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=LoadModuleResource
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertTimeValidity
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertTimeValidity
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSignatureAlg
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSignatureAlg
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSignatureAlg
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertFromDate
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertFromDate
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertToDate
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertToDate
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertContainerName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertContainerName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertContainerName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertContainerName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertContainerName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertContainerName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertProviderName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertProviderName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertProviderName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertProviderName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertProviderName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertProviderName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertSubjectKeyID
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertSubjectKeyID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertSubjectKeyID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertSubjectKeyID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertSubjectKeyID
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertSubjectKeyID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertSubjectKeyID
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertSerialNumber
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertSerialNumber
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertSerialNumber
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertKeyUsage
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertKeyUsage
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertKeyUsage
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertKeyUsage
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertKeyUsage
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertKeyUsage
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertKeyUsage
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertKeyUsage
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertIssuer
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertIssuer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertIssuer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertIssuer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertIssuer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertIssuer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertIssuer
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertSubject
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertSubject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertSubject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertSubject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertSubject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertSubject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertSubject
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertCN
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertCN
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertCN
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertCN
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetCertCN
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetCertCN
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetCertCN
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=QueryCertContextInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=QueryCertContextInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSerialNumber
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckCertSerialNumber
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSerialNumber
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSerialNumber
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSerialNumber
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSerialNumber
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSubjectKeyID
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckCertSubjectKeyID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSubjectKeyID
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSubjectKeyID
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertKeyUsage
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckCertKeyUsage
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertKeyUsage
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertKeyUsage
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCSPName
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CheckCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CheckCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckCSPName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCSPName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCSPName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertIssuer
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckCertIssuer
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertIssuer
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertIssuer
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSubjectName
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CheckCertSubjectName
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSubjectName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CheckCertSubjectName
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ExtractCertificatesFromStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ExtractCertificatesFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ExtractCertificatesFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ExtractCertificatesFromStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ExtractCertificatesFromLocalStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ExtractCertificatesFromLocalStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=ExtractCertificatesFromLocalStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=ExtractCertificatesFromLocalStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ExtractCertificatesFromLocalStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseFilters
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=ParseFilters
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterCertificates
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterCertificatesFromStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FilterCertificatesFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=FilterCertificatesFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterCertificatesFromStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterCertificatesfromLocalStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=FilterCertificatesfromLocalStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateFileHash
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHash
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateFileHash
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifySignature
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifySignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifySignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifySignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifySignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifySignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifySignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifySignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifySignature
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=EncodeObject
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncodeObject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncodeObject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncodeObject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncodeObject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncodeObject
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=EncodeObject
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=UTF8ToUTF16
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=UTF8ToUTF16
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=UTF8ToUTF16
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=UTF8ToUTF16
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=UTF16ToUTF8
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=UTF16ToUTF8
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=UTF16ToUTF8
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=UTF16ToUTF8
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SwapByteOrder
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SwapByteOrder
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetProviderInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetProviderInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetProviderInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetProviderInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetProviderInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=GetProviderInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=GetProviderInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetProviderInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2EncodeOID
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncodeOID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeOID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncodeOID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeOID
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2EncodeOID
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2EncodeRawSignature
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncodeRawSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeRawSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncodeRawSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeRawSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncodeRawSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeRawSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeRawSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2EncodeRawSignature
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifyHashSignedData
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyHashSignedData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifyHashSignedData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifySignatureBase64
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifySignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifySignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifySignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifySignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifySignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifySignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifySignatureBase64
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateHashandSign
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateHashandSign
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateFileHashandSign
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=CalculateFileHashandSign
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=CalculateFileHashandSign
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2EncodeSignerInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncodeSignerInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeSignerInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncodeSignerInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeSignerInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeSignerInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncodeSignerInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeSignerInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncodeSignerInfo
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2EncodeSignerInfo
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2EncapsulatePKCS7
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SM2EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SM2EncapsulatePKCS7
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=EncapsulatePKCS7
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=EncapsulatePKCS7
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=EncapsulatePKCS7
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetHashALGID
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetHashALGID
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetAlgorithmIdentifiers
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=GetAlgorithmIdentifiers
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=GetAlgorithmIdentifiers
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifyFileSignature
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignature
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifyFileSignature
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SignFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SignFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SignFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SignFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SignFile
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SignFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SignFile
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SignBinaryData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SignBinaryData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SignBinaryData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=SignBinaryData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=SignBinaryData
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=SignBinaryData
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=SignBinaryData
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifyFileSignatureBase64
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=VerifyFileSignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=VerifyFileSignatureBase64
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=VerifyFileSignatureBase64
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteCertificateFromStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteCertificateFromStore
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteCertificateFromStore
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteTrustedRootCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteTrustedRootCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteTrustedRootCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteTrustedRootCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteTrustedRootCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteTrustedRootCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteTrustedRootCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteTrustedRootCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteIntermediateCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteIntermediateCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteIntermediateCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteIntermediateCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteIntermediateCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp66 14 "%0Invoke function: (%10!s!)  -- HRESULT: (0x%11!x!)" //   LEVEL=INFO FUNC=DeleteIntermediateCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  tracehelper_cpp62 13 "%0Invoke function: (%10!s!)  --Failed HRESULT: (0x%11!x!)" //   LEVEL=WARNING FUNC=DeleteIntermediateCert
+{
+pwchFunctionInfo, ItemWString -- 10
+hr, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteIntermediateCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteSM2DiscardCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteSM2DiscardCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+#typev  tracehelper_cpp31 11 "%0Exit (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteRSADiscardCert
+{
+m_lpwFunc, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+#typev  tracehelper_cpp21 10 "%0Enter (%10!s!)" //   LEVEL=VERBOSE FUNC=DeleteRSADiscardCert
+{
+m_lpwFunc, ItemWString -- 10
+}

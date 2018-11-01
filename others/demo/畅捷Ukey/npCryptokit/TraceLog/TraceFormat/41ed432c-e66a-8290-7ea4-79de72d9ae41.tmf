@@ -1,0 +1,71 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+41ed432c-e66a-8290-7ea4-79de72d9ae41 CryptoKernel // SRC=UtilitySecurity.cpp MJ= MN=
+#typev  UtilitySecurity_cpp249 20 "%0Empty file" //   LEVEL=ERR FUNC=CheckFileAvailability
+{
+}
+#typev  UtilitySecurity_cpp238 19 "%0Target file size: %10!I64d!" //   LEVEL=INFO FUNC=CheckFileAvailability
+{
+llFileSize.QuadPart, ItemLongLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UtilitySecurity_cpp205 18 "%0Malicious file extention." //   LEVEL=WARNING FUNC=IsMaliciousFileExtention
+{
+}
+#typev  UtilitySecurity_cpp200 17 "%0Check file extention: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFileExtention
+{
+vtrFileExtSet[nIndex].c_str(), ItemWString -- 10
+}
+#typev  UtilitySecurity_cpp186 16 "%0Parsed file path: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFileExtention
+{
+wszScanBuffer, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UtilitySecurity_cpp116 15 "%0Malicious file path." //   LEVEL=WARNING FUNC=IsMaliciousFileFolder
+{
+}
+#typev  UtilitySecurity_cpp111 14 "%0Check file path: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFileFolder
+{
+vtrEnvPathSet[nIndex].c_str(), ItemWString -- 10
+}
+#typev  UtilitySecurity_cpp97 13 "%0Parsed file path: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFileFolder
+{
+wszScanBuffer, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UtilitySecurity_cpp69 12 "%0Get special folder: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFileFolder
+{
+wszEnvironmentFolder, ItemWString -- 10
+}
+#typev  UtilitySecurity_cpp62 11 "%0Get folder ID: %10!d!" //   LEVEL=INFO FUNC=IsMaliciousFileFolder
+{
+vtrCSIDLSet[nIndex], ItemLong -- 10
+}
+#typev  UtilitySecurity_cpp49 10 "%0File folder: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFileFolder
+{
+lpwFileFolder, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UtilitySecurity_cpp319 25 "%0Cannot create a file when that file already exists." //   LEVEL=INFO FUNC=IsMaliciousFilePathName
+{
+}
+#typev  UtilitySecurity_cpp302 24 "%0Is write mode? %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFilePathName
+{
+bWriteMode ? L'TRUE' : L'FALSE', ItemWString -- 10
+}
+#typev  UtilitySecurity_cpp301 23 "%0Extention filter: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFilePathName
+{
+lpwFileFolderFilter, ItemWString -- 10
+}
+#typev  UtilitySecurity_cpp300 22 "%0Folder filter: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFilePathName
+{
+lpwFileFolderFilter, ItemWString -- 10
+}
+#typev  UtilitySecurity_cpp299 21 "%0File path name: %10!s!" //   LEVEL=INFO FUNC=IsMaliciousFilePathName
+{
+lpwFilePathName, ItemWString -- 10
+}

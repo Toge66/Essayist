@@ -1,0 +1,359 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+ba944626-f919-0856-0a95-170c77657f9e CryptoKernel // SRC=DataSigning.cpp MJ= MN=
+#typev  DataSigning_cpp2163 63 "%0Success get hash data" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp2121 62 "%0Open file %10!s! success" //   LEVEL=INFO FUNC=CalculateFileHash
+{
+bstrFileName, ItemWString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp1523 55 "%0It is detached signature" //   LEVEL=INFO FUNC=VerifySignature
+{
+}
+#typev  DataSigning_cpp1515 54 "%0Use the PROV_RSA_FULL type default CSP." //   LEVEL=INFO FUNC=VerifySignature
+{
+}
+#typev  DataSigning_cpp1503 53 "%0Recall CryptAcquireContext:(%10!s!) result:%11!d!" //   LEVEL=INFO FUNC=VerifySignature
+{
+MS_ENH_RSA_AES_PROV_XPSP3, ItemWString -- 10
+bResult, ItemLong -- 11
+}
+#typev  DataSigning_cpp1488 52 "%0CryptAcquireContext(%10!s!) result:%11!d!" //   LEVEL=INFO FUNC=VerifySignature
+{
+MS_ENH_RSA_AES_PROV, ItemWString -- 10
+bResult, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp359 18 "%0UTF16:%10!s!" //   LEVEL=INFO FUNC=UTF8ToUTF16
+{
+*ppwszUTF16, ItemWString -- 10
+}
+#typev  DataSigning_cpp336 17 "%0UTF16 Length:%10!d!" //   LEVEL=INFO FUNC=UTF8ToUTF16
+{
+utf16Size, ItemLong -- 10
+}
+#typev  DataSigning_cpp327 16 "%0UTF8Source Length:%10!d!" //   LEVEL=INFO FUNC=UTF8ToUTF16
+{
+utf8Length, ItemLong -- 10
+}
+#typev  DataSigning_cpp323 15 "%0UTF8Source:%10!s!" //   LEVEL=INFO FUNC=UTF8ToUTF16
+{
+pszUTF8, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp115 12 "%0CryptGetProvParam-getdata(BOOL):%10!d!, length:%11!d!" //   LEVEL=INFO FUNC=GetProviderInfo
+{
+bResult, ItemLong -- 10
+dwDataLength, ItemLong -- 11
+}
+#typev  DataSigning_cpp89 11 "%0CSP provider name is less than 0" //   LEVEL=ERR FUNC=GetProviderInfo
+{
+}
+#typev  DataSigning_cpp84 10 "%0CryptGetProvParam-getlength(BOOL):%10!d!, length:%11!d!" //   LEVEL=INFO FUNC=GetProviderInfo
+{
+bResult, ItemLong -- 10
+dwDataLength, ItemLong -- 11
+}
+#typev  DataSigning_cpp3628 130 "%0Algorithm Object Identifier:%10!s!" //   LEVEL=INFO FUNC=SM2EncodeOID
+{
+algIdentify.pszObjId, ItemString -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp3571 129 "%0dwSignatureEncodedType = 0x%10!04x!" //   LEVEL=INFO FUNC=SM2EncodeRawSignature
+{
+dwSignatureEncodedType, ItemLong -- 10
+}
+#typev  DataSigning_cpp3486 128 "%0SM2 raw signature size:%10!d!" //   LEVEL=INFO FUNC=SM2EncodeRawSignature
+{
+dwRawSignature, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp3418 127 "%0Signed Hash Data Size:%10!d!" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+dwSignedDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp3402 126 "%0Second hash length:%10!d!" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+dwRawSignatureLen, ItemLong -- 10
+}
+#typev  DataSigning_cpp3401 125 "%0Success second time to sign hash data" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3384 124 "%0Success first time get signed hash data length:%10!d!" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+dwRawSignatureLen, ItemLong -- 10
+}
+#typev  DataSigning_cpp3374 123 "%0Success get hash data" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3317 122 "%0Success create hash handle" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3303 121 "%0Key spec:%10!d!" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+pUnregisteredCert->KeySpec, ItemLong -- 10
+}
+#typev  DataSigning_cpp3302 120 "%0Success acquire the CSP provider" //   LEVEL=INFO FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3292 119 "%0Check Parameters(Container)" //   LEVEL=ERR FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3285 118 "%0Check Parameters(CSPName)" //   LEVEL=ERR FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3278 117 "%0Check Parameters(pUnregisteredCert)" //   LEVEL=ERR FUNC=SM2CalculateFileHashandSignbyUnregisteredCert
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp3210 116 "%0Signed Hash Data Size:%10!d!" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+dwSignedDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp3195 115 "%0hash length:%10!d!" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+dwRawSignatureLen, ItemLong -- 10
+}
+#typev  DataSigning_cpp3194 114 "%0Success second time to sign hash data" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp3175 113 "%0Success first time get signed hash data length:%10!d!" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+dwRawSignatureLen, ItemLong -- 10
+}
+#typev  DataSigning_cpp3165 112 "%0Hash value:[%10!s!]" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+pwstrHashValue, ItemWString -- 10
+}
+#typev  DataSigning_cpp3126 111 "%0Success get hash data" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3081 108 "%0Success create hash handle" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3067 107 "%0Key spec:%10!d!" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+pUnregisteredCert->KeySpec, ItemLong -- 10
+}
+#typev  DataSigning_cpp3066 106 "%0Success acquire the SCP provider" //   LEVEL=INFO FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3056 105 "%0Check Parameters(Container)" //   LEVEL=ERR FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3049 104 "%0Check Parameters(CSPName)" //   LEVEL=ERR FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+}
+#typev  DataSigning_cpp3042 103 "%0Check Parameters(pUnregisteredCert)" //   LEVEL=ERR FUNC=SM2CalculateHashandSignbyUnregisteredCert
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp2309 66 "%0Verify PKCS#1 signature success" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+}
+#typev  DataSigning_cpp2293 65 "%0Import PublicKey to handle success" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+}
+#typev  DataSigning_cpp2257 64 "%0Create hash handle success" //   LEVEL=INFO FUNC=VerifyHashSignedData
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp746 34 "%0Signed Hash Data Size:%10!d!" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+dwSignedDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp739 33 "%0Success second time to sign hash data" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+}
+#typev  DataSigning_cpp721 32 "%0Success first time get signed hash data length" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+}
+#typev  DataSigning_cpp711 31 "%0Success get hash data" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp690 29 "%0It is final block to be calculated hash" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+}
+#typev  DataSigning_cpp666 28 "%0Success create hash handle" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+}
+#typev  DataSigning_cpp652 27 "%0CSP provider name:%10!s!" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+(char*) pProviderName, ItemString -- 10
+}
+#typev  DataSigning_cpp647 26 "%0Success acquire the CSP provider" //   LEVEL=INFO FUNC=CalculateHashandSign
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp551 25 "%0Signed Hash Data Size:%10!d!" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+dwSignedDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp544 24 "%0Success second time to sign hash data" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+}
+#typev  DataSigning_cpp526 23 "%0Success first time get signed hash data length" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+}
+#typev  DataSigning_cpp515 22 "%0Success get hash data" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+}
+#typev  DataSigning_cpp456 21 "%0Success create hash handle" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+}
+#typev  DataSigning_cpp441 20 "%0CSP provider name:%10!s!" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+(char*) pProviderName, ItemString -- 10
+}
+#typev  DataSigning_cpp436 19 "%0Success acquire the SCP provider" //   LEVEL=INFO FUNC=CalculateFileHashandSign
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp4109 141 "%0Base64 Content:%10!s!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+(char*)pBase64WithEndl, ItemString -- 10
+}
+#typev  DataSigning_cpp4095 140 "%0Base64 Signed Data Size:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+dwBase64EncodedSignedDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp4089 139 "%0Signed Data ASN1 Length:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+dwSignedDataASN1Size, ItemLong -- 10
+}
+#typev  DataSigning_cpp4078 138 "%0All data SEQUENCE length:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+dwSEQUENCEAllDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp4058 137 "%0All data length:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+dwAllDataLength, ItemLong -- 10
+}
+#typev  DataSigning_cpp4053 136 "%0SignerInfo SET length:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+dwSETSignerInfoSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp4029 135 "%0certificates CONTENT length:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+dwCONTENTCertDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp4019 134 "%0Content Info Data Size:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+dwContentInfoDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp3978 133 "%0File size:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+(DWORD)(largeFileSize.QuadPart), ItemLong -- 10
+}
+#typev  DataSigning_cpp3934 132 "%0digestAlgorithms SET length:%10!d!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+dwSETDigestAlgorithmsSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp3901 131 "%0Algorithm Object Identifier:%10!s!" //   LEVEL=INFO FUNC=SM2EncapsulatePKCS7
+{
+algIdentify.pszObjId, ItemString -- 10
+}
+#typev  DataSigning_cpp1081 45 "%0Base64 Content:%10!s!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+(char*)pBase64WithEndl, ItemString -- 10
+}
+#typev  DataSigning_cpp1067 44 "%0Base64 Signed Data Size:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+dwBase64EncodedSignedDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp1060 43 "%0Signed Data ASN1 Length:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+dwSignedDataASN1Size, ItemLong -- 10
+}
+#typev  DataSigning_cpp1047 42 "%0All data SEQUENCE length:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+dwSEQUENCEAllDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp1027 41 "%0All data length:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+dwAllDataLength, ItemLong -- 10
+}
+#typev  DataSigning_cpp1022 40 "%0SignerInfo SET length:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+dwSETSignerInfoSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp995 39 "%0certificates CONTENT length:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+dwCONTENTCertDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp984 38 "%0Content Info Data Size:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+dwContentInfoDataSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp941 37 "%0File size:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+(DWORD)(largeFileSize.QuadPart), ItemLong -- 10
+}
+#typev  DataSigning_cpp897 36 "%0digestAlgorithms SET length:%10!d!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+dwSETDigestAlgorithmsSize, ItemLong -- 10
+}
+#typev  DataSigning_cpp862 35 "%0Algorithm Object Identifier:%10!s!" //   LEVEL=INFO FUNC=EncapsulatePKCS7
+{
+algIdentify.pszObjId, ItemString -- 10
+}
+#typev  DataSigning_cpp1712 56 "%0Unsupported algorithm:%10!s!" //   LEVEL=ERR FUNC=GetHashALGID
+{
+strAlgorithm.c_str(), ItemString -- 10
+}
+#typev  DataSigning_cpp168 13 "%0The algorithm is not supported" //   LEVEL=ERR FUNC=GetAlgorithmIdentifiers
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp1863 60 "%0Certificate number - dwCertCount=%10!d!" //   LEVEL=ERR FUNC=VerifyFileSignature
+{
+dwCertCount, ItemLong -- 10
+}
+#typev  DataSigning_cpp1805 59 "%0Use the PROV_RSA_FULL type default CSP." //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+}
+#typev  DataSigning_cpp1794 58 "%0Recall CryptAcquireContext(%10!s!) result:%11!d!" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+MS_ENH_RSA_AES_PROV_XPSP3, ItemWString -- 10
+bResult, ItemLong -- 11
+}
+#typev  DataSigning_cpp1780 57 "%0CryptAcquireContext(%10!s!) result:%11!d!" //   LEVEL=INFO FUNC=VerifyFileSignature
+{
+MS_ENH_RSA_AES_PROV, ItemWString -- 10
+bResult, ItemLong -- 11
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp1383 51 "%0Not supportted algorithm" //   LEVEL=ERR FUNC=SignFile
+{
+}
+#typev  DataSigning_cpp1376 50 "%0The inputted file name is NULL" //   LEVEL=ERR FUNC=SignFile
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  DataSigning_cpp1213 47 "%0Not supportted algorithm" //   LEVEL=ERR FUNC=SignBinaryData
+{
+}
+#typev  DataSigning_cpp1203 46 "%0The inputted source binary data is NULL" //   LEVEL=ERR FUNC=SignBinaryData
+{
+}

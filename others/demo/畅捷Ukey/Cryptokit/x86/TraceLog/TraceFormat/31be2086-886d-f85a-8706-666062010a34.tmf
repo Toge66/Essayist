@@ -1,0 +1,15 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+31be2086-886d-f85a-8706-666062010a34 SMKernel // SRC=PKCS7SignedDataOperations.cpp MJ= MN=
+#typev  PKCS7SignedDataOperations_cpp2291 12 "%0fSignatureEncodedType = 0x%10!04x!" //   LEVEL=INFO FUNC=ConstructNode_SignerInfo
+{
+fSignatureEncodedType, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x86\Release\CryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:1:58:53:722 (UTC) [tracepdb]
+#typev  PKCS7SignedDataOperations_cpp699 11 "%0It's a PKCS#7 detached signature" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+}
+#typev  PKCS7SignedDataOperations_cpp665 10 "%0It's a PKCS#7 attached signature" //   LEVEL=INFO FUNC=ParsePKCS7Signature
+{
+}

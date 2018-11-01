@@ -1,0 +1,119 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_IE\Binaries\x64\Release\CryptoKit.Ultimate.x64.dll
+// PDB:  Last Updated :2018-4-9:2:1:8:361 (UTC) [tracepdb]
+834b30b8-ab08-bf35-39b0-b924342a0f74 CryptoKit // SRC=FileSigning.cpp MJ= MN=
+#typev  FileSigning_cpp595 36 "%0Verify Signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS1
+{
+}
+#typev  FileSigning_cpp580 35 "%0Verify Signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS1
+{
+}
+#typev  FileSigning_cpp553 34 "%0Base64 certificate content: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS1
+{
+bstrBase64CertContent, ItemWString -- 10
+}
+#typev  FileSigning_cpp552 33 "%0Hash Algorithm: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS1
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  FileSigning_cpp551 32 "%0SourceFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS1
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileSigning_cpp550 31 "%0Signature algorithm: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS1
+{
+bstrSignatureType, ItemWString -- 10
+}
+#typev  FileSigning_cpp549 30 "%0bstrSignature: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS1
+{
+bstrSignature, ItemWString -- 10
+}
+#typev  FileSigning_cpp715 41 "%0Verify Signature by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS7Detached
+{
+}
+#typev  FileSigning_cpp700 40 "%0Verify Signature by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS7Detached
+{
+}
+#typev  FileSigning_cpp677 39 "%0SourceFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS7Detached
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileSigning_cpp676 38 "%0bstrSignatureType: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS7Detached
+{
+bstrSignatureType, ItemWString -- 10
+}
+#typev  FileSigning_cpp675 37 "%0bstrSignature: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::VerifyFileSignaturePKCS7Detached
+{
+bstrSignature, ItemWString -- 10
+}
+#typev  FileSigning_cpp69 13 "%0File Sign by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1
+{
+}
+#typev  FileSigning_cpp50 12 "%0File Sign by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1
+{
+}
+#typev  FileSigning_cpp33 11 "%0Hash Algorithm: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  FileSigning_cpp32 10 "%0SourceFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileSigning_cpp186 17 "%0File Sign by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached
+{
+}
+#typev  FileSigning_cpp154 16 "%0File Sign by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached
+{
+}
+#typev  FileSigning_cpp138 15 "%0Hash Algorithm: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  FileSigning_cpp137 14 "%0SourceFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileSigning_cpp295 23 "%0File Sign by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1_BySoftCert
+{
+}
+#typev  FileSigning_cpp271 22 "%0File Sign by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1_BySoftCert
+{
+}
+#typev  FileSigning_cpp246 21 "%0Hash Algorithm: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1_BySoftCert
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  FileSigning_cpp245 20 "%0SourceFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1_BySoftCert
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileSigning_cpp244 19 "%0SoftCertType: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1_BySoftCert
+{
+bstrSoftCertType, ItemWString -- 10
+}
+#typev  FileSigning_cpp243 18 "%0SoftCertFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS1_BySoftCert
+{
+bstrSoftCertFileName, ItemWString -- 10
+}
+#typev  FileSigning_cpp465 29 "%0File Sign by RSA" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached_BySoftCert
+{
+}
+#typev  FileSigning_cpp438 28 "%0File Sign by SM2" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached_BySoftCert
+{
+}
+#typev  FileSigning_cpp413 27 "%0Hash Algorithm: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached_BySoftCert
+{
+bstrHashAlg, ItemWString -- 10
+}
+#typev  FileSigning_cpp412 26 "%0SourceFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached_BySoftCert
+{
+bstrSourceFile, ItemWString -- 10
+}
+#typev  FileSigning_cpp411 25 "%0SoftCertType: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached_BySoftCert
+{
+bstrSoftCertType, ItemWString -- 10
+}
+#typev  FileSigning_cpp410 24 "%0SoftCertFile path: [%10!s!]" //   LEVEL=INFO FUNC=CCryptoAgent::SignFilePKCS7Detached_BySoftCert
+{
+bstrSoftCertFileName, ItemWString -- 10
+}

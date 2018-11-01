@@ -1,0 +1,23 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+bc75df92-b94c-9470-5662-c01b330c199e CryptoKernel // SRC=UtilityBase64.cpp MJ= MN=
+#typev  UtilityBase64_cpp148 14 "%0Base64 Decoded data length:%10!d!" //   LEVEL=INFO FUNC=Base64DecodeEx
+{
+dwDecodedDataSize, ItemLong -- 10
+}
+#typev  UtilityBase64_cpp138 13 "%0Base64Decode Failed" //   LEVEL=ERR FUNC=Base64DecodeEx
+{
+}
+#typev  UtilityBase64_cpp120 12 "%0Base64 decoded data length:%10!d!" //   LEVEL=ERR FUNC=Base64DecodeEx
+{
+nDecodeDataLength, ItemLong -- 10
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UtilityBase64_cpp78 11 "%0Base64 Encoded data length:%10!d!" //   LEVEL=INFO FUNC=Base64EncodeEx
+{
+dwBase64EncodedDataSize, ItemLong -- 10
+}
+#typev  UtilityBase64_cpp68 10 "%0Base64Encode Failed" //   LEVEL=ERR FUNC=Base64EncodeEx
+{
+}

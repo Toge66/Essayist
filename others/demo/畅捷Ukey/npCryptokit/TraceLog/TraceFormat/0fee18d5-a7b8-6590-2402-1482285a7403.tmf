@@ -1,0 +1,71 @@
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+0fee18d5-a7b8-6590-2402-1482285a7403 CryptoKernel // SRC=UnregisteredCertOperations.cpp MJ= MN=
+#typev  UnregisteredCertOperations_cpp67 12 "%0Invalid parameter(lpwContainerName)." //   LEVEL=INFO FUNC=CertCreateUnregisteredCertContext
+{
+}
+#typev  UnregisteredCertOperations_cpp60 11 "%0Invalid parameter(lpwCSPName)." //   LEVEL=INFO FUNC=CertCreateUnregisteredCertContext
+{
+}
+#typev  UnregisteredCertOperations_cpp53 10 "%0Invalid parameter(pCertContext)." //   LEVEL=INFO FUNC=CertCreateUnregisteredCertContext
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UnregisteredCertOperations_cpp235 16 "%0Invalid parameter(lpwContainerName)." //   LEVEL=INFO FUNC=GetUnregisteredCertfromContainer
+{
+}
+#typev  UnregisteredCertOperations_cpp228 15 "%0Invalid parameter(lpwCSPName)." //   LEVEL=INFO FUNC=GetUnregisteredCertfromContainer
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UnregisteredCertOperations_cpp148 14 "%0CertCreateUnregisteredCertContext." //   LEVEL=INFO FUNC=CertDuplicateUnregisteredCertContext
+{
+}
+#typev  UnregisteredCertOperations_cpp137 13 "%0Invalid parameter." //   LEVEL=INFO FUNC=CertDuplicateUnregisteredCertContext
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UnregisteredCertOperations_cpp537 23 "%0GetUnregisteredCertfromContainer(AT_SIGNATURE): 0x%10!08x!" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+hr, ItemLong -- 10
+}
+#typev  UnregisteredCertOperations_cpp520 22 "%0GetUnregisteredCertfromContainer(AT_KEYEXCHANGE): 0x%10!08x!" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+hr, ItemLong -- 10
+}
+#typev  UnregisteredCertOperations_cpp513 21 "%0CSPName: [%10!s!] lpwContainerName: [%11!s!]" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+lpwCSPName, ItemWString -- 10
+lpwContainerName, ItemWString -- 11
+}
+#typev  UnregisteredCertOperations_cpp472 20 "%0CryptGetProvParam(PP_ENUMCONTAINERS) success!" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+}
+#typev  UnregisteredCertOperations_cpp457 19 "%0CryptAcquireContext() success!" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+}
+#typev  UnregisteredCertOperations_cpp443 18 "%0CSP Name:%10!s!" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+lpwCSPName, ItemWString -- 10
+}
+#typev  UnregisteredCertOperations_cpp439 17 "%0Invalid parameter." //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromSpecifiedCSP
+{
+}
+// PDB:  D:\Builds\10\SADK\CryptoKit_Ultimate_NPAPI\Binaries\x86\Release\npCryptoKit.Ultimate.x86.dll
+// PDB:  Last Updated :2018-4-9:5:38:23:937 (UTC) [tracepdb]
+#typev  UnregisteredCertOperations_cpp629 26 "%0FilterUnregisteredCertificatesfromSpecifiedCSP(%10!s!): 0x%11!08x!" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromCSP
+{
+itr->c_str(), ItemWString -- 10
+hr, ItemLong -- 11
+}
+#typev  UnregisteredCertOperations_cpp612 25 "%0All CSP name: %10!s!" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromCSP
+{
+bstrAllCSPName, ItemWString -- 10
+}
+#typev  UnregisteredCertOperations_cpp601 24 "%0Specified CSP List: %10!s!" //   LEVEL=INFO FUNC=FilterUnregisteredCertificatesfromCSP
+{
+lpwCSPNameList, ItemWString -- 10
+}
