@@ -1,6 +1,6 @@
-##yargs使用
+## yargs使用
 
-###一、常用参数
+### 一、常用参数
 
 + help、epilog提示帮助信息
  
@@ -83,7 +83,7 @@ const argv = yargs.usage('Usage: $0 -c[configfile]')
 
 console.log(argv.c)
 ```
-###二、子命令
+### 二、子命令
 + command使用`//.command(cmd, desc, [builder], [handler])`
 
 ```
