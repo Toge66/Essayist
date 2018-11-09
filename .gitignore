@@ -34,6 +34,7 @@ node_modules
 .idea/
 
 build/
+others/rollup/rollup-demo/node_modules
 
 lib
 node_modules
