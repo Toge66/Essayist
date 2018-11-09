@@ -1,0 +1,46 @@
+{
+  "name": "rollup-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "iife": "rollup main.js --file ./distR/bundle-iife.js --format iife --name variable",
+    "cjs": "rollup main.js --file ./distR/bundle-cjs.js --format cjs",
+    "umd": "rollup main.js --file ./distR/bundle-umd.js --format umd",
+    "requireiife": "rollup main-require.js --file ./distR/bundle-require-iife.js --output.format iife",
+    "dev": "rollup -c rollup.react.config.js -w",
+    "dev:webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingdev/rollup-demo.git"
+  },
+  "keywords": [],
+  "author": "starbo <xingbo0227@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingdev/rollup-demo/issues"
+  },
+  "homepage": "https://github.com/xingdev/rollup-demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.5",
+    "@babel/plugin-external-helpers": "^7.0.0",
+    "@babel/preset-env": "^7.1.5",
+    "@babel/preset-react": "^7.0.0",
+    "cross-env": "^5.2.0",
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-node-globals": "^1.4.0",
+    "rollup-plugin-node-resolve": "^3.4.0",
+    "rollup-plugin-postcss": "^1.6.2",
+    "rollup-plugin-serve": "^0.6.0",
+    "rollup-plugin-uglify": "^6.0.0",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "rollup": "^0.67.0"
+  }
+}

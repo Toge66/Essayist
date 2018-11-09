@@ -1,0 +1,9 @@
+#app {
+  background: hotpink;
+  height: 960px;
+  color: white;
+  font-size: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
