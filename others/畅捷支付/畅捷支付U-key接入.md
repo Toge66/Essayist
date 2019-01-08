@@ -58,7 +58,7 @@ try {
 }
 ```
 
-* [demo](https://github.com/Toge66/Essayist/tree/master/others/demo/%E7%95%85%E6%8D%B7Ukey/Demo)
+* [demo](https://github.com/Toge66/Essayist/tree/master/others/%E7%95%85%E6%8D%B7%E6%94%AF%E4%BB%98/%E7%95%85%E6%8D%B7Ukey/Demo)
 
 ## Mac
 ### 需要定制U-key目前还没有提供
