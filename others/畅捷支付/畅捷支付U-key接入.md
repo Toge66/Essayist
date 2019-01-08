@@ -31,7 +31,7 @@
   CryptoAgent = document.getElementById('CryptoAgent')
 ```
 
-* api使用：[api文档](https://github.com/Toge66/Essayist/blob/master/others/demo/%E7%95%85%E6%8D%B7Ukey/%E6%96%87%E6%A1%A3/CFCA%20%E8%AF%81%E4%B9%A6%E5%B7%A5%E5%85%B7%E5%8C%85(Ultimate%E7%89%88)%E6%8E%A5%E5%8F%A3%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)
+* api使用：[api文档](https://github.com/Toge66/Essayist/blob/master/others/%E7%95%85%E6%8D%B7%E6%94%AF%E4%BB%98/%E7%95%85%E6%8D%B7Ukey/%E6%96%87%E6%A1%A3/CFCA%20%E8%AF%81%E4%B9%A6%E5%B7%A5%E5%85%B7%E5%8C%85(Ultimate%E7%89%88)%E6%8E%A5%E5%8F%A3%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)
 
 ```
 例：获取U-key中证书主题操作员号
