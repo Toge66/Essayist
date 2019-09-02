@@ -2,8 +2,8 @@
 //  JFSeachCell.m
 //  PDFDemo
 //
-//  Created by Japho on 2018/11/14.
-//  Copyright © 2018 Japho. All rights reserved.
+//  Created by taochang on 2018/11/14.
+//  Copyright © 2018 taochang. All rights reserved.
 //
 
 #import "JFSeachCell.h"
