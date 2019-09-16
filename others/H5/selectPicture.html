@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+        <style type="text/css">
+            .preview {
+                width: 2.56rem;
+                height: 2.56rem;
+                position: relative;
+                background-image: url(img/iconfont-tianjia.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+        </style>
+    </head>
+    <body id="body">
+        <input type="file" accept="image/*" multiple id="file" value="点击" />
+        <script type="text/javascript">
+            let preview = document.getElementById('preview');
+            let eleFile = document.querySelector('#file');
+            let body = document.getElementById('body')
+            eleFile.addEventListener('change', function() {
+                for(let i = 0; i < this.files.length; i++) {
+                    let file = this.files[i];
+                    let reader = new FileReader();
+                    reader.readAsDataURL(file);                    
+                    reader.onload = function(e) {
+                        let div = document.createElement('div')
+                        div.setAttribute('class', 'preview')
+                        body.appendChild(div)
+                        let newUrl = e.currentTarget.result;
+                        div.style.backgroundImage = 'url(' + newUrl + ')';
+                    };
+                }
+            });
+        </script>
+    </body>
+
+</html>
