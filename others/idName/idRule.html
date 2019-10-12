@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+        <script type="text/javascript">
+        	function getText() {
+        		const f1 = document.querySelector('#field1')
+        		console.log(f1.value)
+        		const f2 = document.querySelector('#field.2')
+        		console.log(f2.value)
+        	}
+        </script>
+    </head>
+    <body id="body">
+    	Field1: <input type="text" id="field1" value="Hello field1!"><br>
+    	Field2: <input type="text" id="field.2" value="Hello field2!"><br>
+    	<button onclick="getText()">获取文本</button>
+    </body>
+
+</html>
