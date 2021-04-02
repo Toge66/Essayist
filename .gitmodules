@@ -22,3 +22,6 @@
 [submodule "react-router"]
 	path = react-router
 	url = git@github.com:Toge66/react-router.git
+[submodule "test-koa"]
+	path = test-koa
+	url = ../test-koa.git
