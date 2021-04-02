@@ -6,19 +6,41 @@
     <script>
       function handleFile(e) {
         var file = e.files[0];
-        var fileReader = new FileReader();
-        var img = document.getElementsByTagName("img")[0];
-        fileReader.onload = function(e) {
-          img.src = e.target.result;
-        };
-        fileReader.readAsDataURL(file);
+        let FR = new FileReader()
+        FR.onload = (e)  => {
+          let af = e.target.result
+          let view = new DataView(af);
+          console.log('hello---', view)
+          let first4Bytes = view.getUint32(0, false);
+          let first4BytesHex = Number(first4Bytes).toString(16).toUpperCase()
+          console.log('=======',first4BytesHex)
+          console.log('-------', first4Bytes)
+          switch (first4BytesHex) {
+            case 'FFD8FFE0':
+            case 'FFD8FFE1':
+            case 'FFD8FFE2':
+            case 'FFD8FFE3':
+              console.log('image/jpeg'); break;
+            case '18':
+              console.log('image/jpg'); break;
+            case '89504E47':
+              console.log('image/png'); break;
+            case '47494638':
+              console.log('image/gif'); break;
+            case '52494646':
+              console.log('video/avi'); break;
+            default:
+              console.log('undefined'); break;
+          }
+        }
+        FR.readAsArrayBuffer(file)
       }
     </script>
   </head>
 
   <body>
-    <input type="file" accept="image/*" onchange="handleFile(this)" />
+    <input type="file" accept="*/*" onchange="handleFile(this)" />
     <br />
-    <img style="width:200px;height:200px" />
+    <div id="type"></div>
   </body>
 </html>
